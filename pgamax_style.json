@@ -3,19 +3,135 @@
 		"propertyKey": "PGA",
 		"properties": [
 			{
-				"property": "icon",
+				"property": "triangle",
 				"values": [{
-						"key": 0,
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/ran-test/main/t0.png)"
+						"key": [0,50],
+						""fillColor"": "#00ff00",
+						"color": "#00ff00",
+						"fillOpacity: 1"
 					},
 					{
-						"key": 100,
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/ran-test/main/t100.png)"
+						"key": [50,100],
+						"fillColor": "#86ff00,
+						"color": "#86ff00",
+						"fillOpacity: 1"
 					},
 					{
-						"key": 200,
-						"value": "url(https://raw.githubusercontent.com/pcm-dpc/ran-test/main/t200.png)"
-					}
+						"key": [100,150],
+						"fillColor": "#fffd00",
+						"color": "#fffd00",
+						"fillOpacity: 1"				
+					},
+					{
+						"key": [150,200],
+						"fillColor": "#ffee00",
+						"color": "#ffee00",
+						"fillOpacity: 1"					
+					},
+					{
+						"key": [200,250],
+						"fillColor": "#ffdf00",
+						"color": "#ffdf00",
+						"fillOpacity: 1"					
+					},
+					{
+						"key": [250,300],
+						"fillColor": "#ffd000",
+						"color": "#ffd000",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [300,350],
+						"fillColor": "#ffc100",
+						"color": "#ffc100",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [350,400],
+						"fillColor": "#ffb200",
+						"color": "#ffb200",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [400,450],
+						"fillColor": "#ffa400",
+						"color": "#ffa400",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [450,500],
+						"fillColor": "#ff9500",
+						"color": "#ff9500",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [500,550],
+						"fillColor": "#ff8600",
+						"color": "#ff8600",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [550,600],
+						"fillColor": "#ff7700",
+						"color": "#ff7700",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [600,650],
+						"fillColor": "#ff6800",
+						"color": "#ff6800",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [650,700],
+						"fillColor": "#ff5900",
+						"color": "#ff5900",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [700,750],
+						"fillColor": "#ff4a00",
+						"color": "#ff4a00",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [750,800],
+						"fillColor": "#ff3b00",
+						"color": "#ff3b00",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [800,850],
+						"fillColor": "#ff2c00",
+						"color": "#ff2c00",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [850,900],
+						"fillColor": "#ff1d00",
+						"color": "#ff1d00",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [900,950],
+						"fillColor": "#ff0e00",
+						"color": "#ff0e00",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [950,1000],
+						"fillColor": "#ff0900",
+						"color": "#ff0900",
+						"fillOpacity: 1"
+					},
+					{
+						"key": [1000],
+						"fillColor": "#ff0000",
+						"color": "#ff0000",
+						"fillOpacity: 1"
+					},
+					
+					
 				]
 			}
 		]
