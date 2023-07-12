@@ -1,137 +1,200 @@
 {
 	"style_properties": [{
 		"propertyKey": "PGA",
-		"properties": [
-			{
-				"property": "triangle",
-				"values": [{
-						"key": [0,50],
+		"properties": [{
+			"property": "triangle",
+			"values": [{
+					"key": [0, 50],
+					"value": "style",
+					"options": {
 						"fillColor": "#00ff00",
 						"color": "#00ff00",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [50,100],
+					}
+				},
+				{
+					"key": [50, 100],
+					"value": "style",
+					"options": {
 						"fillColor": "#86ff00",
 						"color": "#86ff00",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [100,150],
+					}
+				},
+				{
+					"key": [100, 15],
+					"value": "style",
+					"options": {
 						"fillColor": "#fffd00",
 						"color": "#fffd00",
-						"fillOpacity": 0.9				
-					},
-					{
-						"key": [150,200],
+						"fillOpacity": 0.9
+					}
+				},
+				{
+					"key": [150, 200],
+					"value": "style",
+					"options": {
 						"fillColor": "#ffee00",
 						"color": "#ffee00",
-						"fillOpacity": 0.9					
-					},
-					{
-						"key": [200,250],
+						"fillOpacity": 0.9
+					}
+				},
+				{
+					"key": [200, 250],
+					"value": "style",
+					"options": {
 						"fillColor": "#ffdf00",
 						"color": "#ffdf00",
-						"fillOpacity": 0.9					
-					},
-					{
-						"key": [250,300],
+						"fillOpacity": 0.9
+					}
+				},
+				{
+					"key": [250, 300],
+					"value": "style",
+					"options": {
 						"fillColor": "#ffd000",
 						"color": "#ffd000",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [300,350],
+					}
+				},
+				{
+					"key": [300, 350],
+					"value": "style",
+					"options": {
 						"fillColor": "#ffc100",
 						"color": "#ffc100",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [350,400],
+					}
+				},
+				{
+					"key": [350, 400],
+					"value": "style",
+					"options": {
 						"fillColor": "#ffb200",
 						"color": "#ffb200",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [400,450],
+					}
+				},
+				{
+					"key": [400, 450],
+					"value": "style",
+					"options": {
 						"fillColor": "#ffa400",
 						"color": "#ffa400",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [450,500],
+					}
+				},
+				{
+					"key": [450, 500],
+					"value": "style",
+					"options": {
 						"fillColor": "#ff9500",
 						"color": "#ff9500",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [500,550],
+					}
+				},
+				{
+					"key": [500, 550],
+					"value": "style",
+					"options": {
 						"fillColor": "#ff8600",
 						"color": "#ff8600",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [550,600],
+					}
+				},
+				{
+					"key": [550, 600],
+					"value": "style",
+					"options": {
 						"fillColor": "#ff7700",
 						"color": "#ff7700",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [600,650],
+					}
+				},
+				{
+					"key": [600, 650],
+					"value": "style",
+					"options": {
 						"fillColor": "#ff6800",
 						"color": "#ff6800",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [650,700],
+					}
+				},
+				{
+					"key": [650, 700],
+					"value": "style",
+					"options": {
 						"fillColor": "#ff5900",
 						"color": "#ff5900",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [700,750],
+					}
+				},
+				{
+					"key": [700, 750],
+					"value": "style",
+					"options": {
 						"fillColor": "#ff4a00",
 						"color": "#ff4a00",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [750,800],
+					}
+				},
+				{
+					"key": [750, 800],
+					"value": "style",
+					"options": {
 						"fillColor": "#ff3b00",
 						"color": "#ff3b00",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [800,850],
+					}
+				},
+				{
+					"key": [800, 850],
+					"value": "style",
+					"options": {
 						"fillColor": "#ff2c00",
 						"color": "#ff2c00",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [850,900],
+					}
+				},
+				{
+					"key": [850, 900],
+					"value": "style",
+					"options": {
 						"fillColor": "#ff1d00",
 						"color": "#ff1d00",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [900,950],
+					}
+				},
+				{
+					"key": [900.950],
+					"value": "style",
+					"options": {
 						"fillColor": "#ff0e00",
 						"color": "#ff0e00",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [950,1000],
+					}
+				},
+				{
+					"key": [950, 1000],
+					"value": "style",
+					"options": {
 						"fillColor": "#ff0900",
 						"color": "#ff0900",
 						"fillOpacity": 0.9
-					},
-					{
-						"key": [1000],
+					}
+				},
+				{
+					"key": [1000],
+					"value": "style",
+					"options": {
 						"fillColor": "#ff0000",
 						"color": "#ff0000",
 						"fillOpacity": 0.9
 					}
-				]
-			}
-		]
+				}
+
+
+			]
+		}]
 	}]
 }
