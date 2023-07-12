@@ -1,12 +1,9 @@
 {
   "global_legend": "",
-  "name": "ML 3.6 - 2023-04-02T19:15:11Z",
+  "name": "ML 6 - 2022-11-04T09:00:00",
   "header_popup": "Rete RAN",
   "layers": [
-    {
-      "key": 0,
-      "label": "Comuni terremoto"
-    },
+    
     {
       "key": 1,
       "label": "PGA MAX"
@@ -18,27 +15,23 @@
   ],
   "today": {
     "attachment": [
+      
       {
-        "geojson": "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/comuni_ran.geojson"
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/exe_stretto_ran_pga_max.geojson"
       },
       {
-        "geojson": "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/pgamax.geojson"
-      },
-      {
-        "geojson": "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/last_event.geojson"
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/exe_stretto_ran_epicentro.geojson"
       }
     ],
     "topo_json": [
-      "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/comuni_ran.geojson",
-      "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/pgamax.geojson",
-      "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/last_event.geojson"
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/exe_stretto_ran_pga_max.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/exe_stretto_ran_epicentro.geojson"
 
     ],
     "html_description": ""
   },
   "style": [
-    "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/comuni_style.json",
-    "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/pgamax_style.json",
-    "https://raw.githubusercontent.com/pcm-dpc/ran-test/main/lastevent_style.json"
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/pgamax_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/lastevent_style.json"
   ]
 }
