@@ -5,11 +5,11 @@
   "layers": [
     
     {
-      "key": 1,
+      "key": 0,
       "label": "PGA MAX"
     },
     {
-      "key": 2,
+      "key": 1,
       "label": "Epicentro"
     }
   ],
