@@ -6,7 +6,7 @@
 				"property": "triangle",
 				"values": [{
 						"key": [0,50],
-						""fillColor"": "#00ff00",
+						""fillColor": "#00ff00",
 						"color": "#00ff00",
 						"fillOpacity: 1"
 					},
