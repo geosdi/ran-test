@@ -1,0 +1,36 @@
+{
+  "global_legend": "",
+  "name": "ML 6 - 2022-11-04T09:00:00",
+  "header_popup": "Rete RAN",
+  "layers": [
+    
+    {
+      "key": 0,
+      "label": "Epicentro"
+    },
+    {
+      "key": 1,
+      "label": "PGA MAX"
+    }
+  ],
+  "today": {
+    "attachment": [
+      
+      {
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/exe_stretto_ran_epicentro.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/exe_stretto_ran_pga_max.geojson"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/exe_stretto_ran_epicentro.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/exe_stretto_ran_pga_max.geojson"
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/lastevent_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/pgamax_style_new.json"
+  ]
+}
