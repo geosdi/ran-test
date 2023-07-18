@@ -31,7 +31,7 @@
     "html_description": ""
   },
   "style": [
-    "https://raw.githubusercontent.com/geosdi/ran-test/main/pgamax_style_new.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/pgamax_style.json",
     "https://raw.githubusercontent.com/geosdi/ran-test/main/lastevent_style.json"
   ]
 }
