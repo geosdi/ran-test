@@ -15,7 +15,8 @@
               "options": {
                 "fillColor": "#00ff00",
                 "color": "#00ff00",
-                "fillOpacity": 0.9
+                "fillOpacity": 0.9,
+                "radius":10
               }
             },
             {
