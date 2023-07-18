@@ -14,9 +14,11 @@
               "value": "triangle",
               "options": {
                 "fillColor": "#00ff00",
-                "color": "#00ff00",
+                "color": "#000000",
                 "fillOpacity": 0.9,
-                "radius":15
+                "radius":15,
+                "stroke" : TRUE,
+                "weight" = 0.8
               }
             },
             {
