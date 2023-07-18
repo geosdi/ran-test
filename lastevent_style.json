@@ -8,7 +8,7 @@
                    "key": "*",
                    "value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/epicentro.png)",
                    "options": {
-                     "iconSize": [50, 50]
+                     "iconSize": [100, 100]
                    }
                 }
              ]
