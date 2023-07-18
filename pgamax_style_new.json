@@ -1,0 +1,285 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "PGA",
+      "properties": [
+        {
+          "property": "shape",
+          "values": [
+            {
+              "key": [
+                0,
+                50
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#00ff00",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                50,
+                100
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#86ff00",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                100,
+                150
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#fffd00",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                150,
+                200
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ffee00",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                200,
+                250
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ffdf00",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                250,
+                300
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ffd000",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                300,
+                350
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ffc100",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                350,
+                400
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ffb200",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                400,
+                450
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ffa400",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                450,
+                500
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ff9500",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                500,
+                550
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ff8600",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                550,
+                600
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ff7700",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                600,
+                650
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ff6800",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                650,
+                700
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ff5900",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                700,
+                750
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ff4a00",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                750,
+                800
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ff3b00",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                800,
+                850
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ff2c00",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                850,
+                900
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ff1d00",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                900,950
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ff0e00",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                950,
+                1000
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ff0900",
+                "color": "#000000",
+                "fillOpacity": 0.9,
+                "radius": 15
+              }
+            },
+            {
+              "key": [
+                1000
+              ],
+              "value": "triangle",
+              "options": {
+                "fillColor": "#ff0000",
+                "color": "#000000",
+                "fillOpacity": 0.9,,
+                "radius": 15
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
