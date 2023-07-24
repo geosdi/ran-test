@@ -1,1 +1,27 @@
-
+{
+  "global_legend": "",
+  "name": "Anagrafica stazioni",
+  "header_popup": "Stazioni RAN",
+  "layers": [
+    
+    {
+      "key": 0,
+      "label": "Stazioni RAN"
+    },
+      ],
+  "today": {
+    "attachment": [
+      
+      {
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/anagrafica_stazioni/ran_anagrafica_stazioni.geojson"
+      }
+          ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/anagrafica_stazioni/ran_anagrafica_stazioni.geojson"
+     ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/anagrafica_stazioni/ran_anagrafica_stazioni_style.json"
+  ]
+}
