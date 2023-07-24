@@ -1,21 +1,59 @@
 {
-  "style_properties": [
-    {
-      "propertyKey": "Regione",
+	"style_properties": [
+	 {
+	"propertyKey": "Regione",
       "properties": [
         {
-          "property": "shape",
+          "property": "radius",
           "values": [
             {
               "key": "*",
-              "value": "triangle",
-              "options": {
-                "fillColor": "#FFFFFF",
-                "color": "#000000",
-                "weight": 1,
-                "fillOpacity": 0.8,
-                "radius": 7
-              }
+              "value": "8"
+            }
+          ]
+        },
+        {
+          "property": "fillColor",
+          "values": [
+            {
+              "key": "*",
+              "value": "#FFFFFF"
+            }
+          ]
+        },
+        {
+          "property": "color",
+          "values": [
+            {
+              "key": "*",
+              "value": "#000000"
+            }
+          ]
+        },
+        {
+          "property": "weight",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "opacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "0.75"
             }
           ]
         }
@@ -23,3 +61,5 @@
     }
   ]
 }
+
+
