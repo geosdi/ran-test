@@ -10,12 +10,7 @@
     }
       ],
   "today": {
-    "attachment": [
-      
-      {
-        "geojson": "https://github.com/geosdi/ran-test/tree/main/anagrafica_stazioni/ran_anagrafica_stazioni.geojson"
-      }
-          ],
+
     "topo_json": [
       "https://github.com/geosdi/ran-test/tree/main/anagrafica_stazioni/ran_anagrafica_stazioni.geojson"
      ],
