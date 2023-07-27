@@ -1,1 +1,22 @@
+{
+  "global_legend": "",
+  "name": "Eventi RAN",
+  "header_popup": Eventi RAN",
+  "layers": [
+    
+    {
+      "key": 0,
+      "label": Eventi RAN"
+    }
+      ],
+  "today": {
 
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi/ran_eventi.geojson"
+     ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi/ran_eventi_style.json"
+  ]
+}
