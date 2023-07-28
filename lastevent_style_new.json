@@ -7,7 +7,7 @@
           "property": "shape",
           "values": [
             {
-              "key": "*",
+              "key": [0,15],
               "value": "circle",
               "options": {
                 "fillColor": "#000000",
@@ -19,7 +19,7 @@
               }
             },
             {
-              "key": "*",
+              "key": [0,20],
               "value": "circle",
               "options": {
                 "fillColor": "#000000",
@@ -30,7 +30,7 @@
               }
             },
             {
-              "key": "*",
+              "key": [0,25],
               "value": "circle",
               "options": {
                 "fillColor": "#000000",
@@ -41,7 +41,7 @@
               }
             },
             {
-              "key": "*",
+              "key": [0,30],
               "value": "circle",
               "options": {
                 "fillColor": "#000000",
@@ -52,7 +52,7 @@
               }
             },
             {
-              "key": "*",
+              "key": [0,35],
               "value": "circle",
               "options": {
                 "fillColor": "#000000",
