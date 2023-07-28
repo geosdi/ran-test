@@ -7,8 +7,10 @@
           "property": "shape",
           "values": [
             {
-              "key": [0.1,15],
-              "value": "circle",
+              "key": "*",
+              "value": [
+             {
+               "circle",
               "options": {
                 "fillColor": "#000000",
                 "color": "#000000",
@@ -19,50 +21,43 @@
               }
             },
             {
-              "key": [0.2,20],
-              "value": "circle",
+              "circle",
               "options": {
-                "fillColor": "#000000",
                 "color": "#000000",
                 "weight": 1,
-                "fillOpacity": 0.0,
+                "fill": false,
                 "radius": 6
               }
             },
             {
-              "key": [0.3,25],
-              "value": "circle",
+              "circle",
               "options": {
-                "fillColor": "#000000",
                 "color": "#000000",
                 "weight": 1,
-                "fillOpacity": 0.0,
+                "fill": false,
                 "radius": 9
               }
             },
             {
-              "key": [0.4,30],
-              "value": "circle",
+              "circle",
               "options": {
-                "fillColor": "#000000",
                 "color": "#000000",
                 "weight": 1,
-                "fillOpacity": 0.0,
+                "fill": false,
                 "radius": 12
               }
             },
             {
-              "key": [0.5,35],
-              "value": "circle",
+              "circle",
               "options": {
-                "fillColor": "#000000",
                 "color": "#000000",
                 "weight": 1,
-                "fillOpacity": 0.0,
+                "fill": false,
                 "radius": 15
               }
             }
           ]
+         ]
         }      
       ]
     }
