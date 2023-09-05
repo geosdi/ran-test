@@ -12,14 +12,14 @@
    
     "topo_json": [
       
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iononrischio/piazze_iononrischio_maplite.geojson"
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/test_iononrischio/iononrischio_maps.geojson"
 
     ],
     "html_descrition": ""
   },
   "style": [
    
-    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iononrischio/piazze_iononrischio--maplite--style.json"
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/test_iononrischio/iononrischio_map_style.json"
   ]
    
 }
