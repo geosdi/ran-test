@@ -1,6 +1,6 @@
 {
   "global_legend": "",
-  "name": "Giornate nazionali del 20 e 21 maggio 2023",
+  "name": "Campagna Io non rischio",
   "header_popup": "Piazza Io non rischio",
   "layers": [
     {
@@ -12,13 +12,14 @@
    
     "topo_json": [
       
-      "https://raw.githubusercontent.com/geosdi/ran-test/main/test_iononrischio/iononrischio_maps.geojson"
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iononrischio/piazze_iononrischio_maplite.geojson"
+
     ],
     "html_descrition": ""
   },
   "style": [
    
-    "https://raw.githubusercontent.com/geosdi/ran-test/main/test_iononrischio/iononrischio_map_style.json"
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/iononrischio/piazze_iononrischio--maplite--style.json"
   ]
    
 }
