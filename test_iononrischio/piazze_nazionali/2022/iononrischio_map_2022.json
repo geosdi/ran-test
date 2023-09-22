@@ -12,7 +12,7 @@
    
     "topo_json": [
       
-      "https://raw.githubusercontent.com/geosdi/ran-test/main/test_iononrischio/piazze_nazionali/2022/iononrischio_maps_2022.geojson"
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/test_iononrischio/piazze_nazionali/2022/data/iononrischio_map_data.geojson"
 
     ],
     "html_descrition": ""
