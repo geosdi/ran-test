@@ -1,7 +1,7 @@
 {
   "header": " Le caratteristiche dei territori colpiti",
   "sub_header": "ALLUVIONE TOSCANA (nov 2023)",
-  "regions": [],
+  "regions": ["Abruzzo", "Marche", "Umbria", "Lazio"],
   "views": [
     {
       "index": 1,
