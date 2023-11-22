@@ -51,18 +51,17 @@
         ]
       },
 {
-      "propertyKey": "Comune",
-      "properties": [
-        {
-          "property": "divIcon",
-          "values": [
-            {
-              "key": "*",
-              "value": "<div style='background-color:#749cd8; width:100%; height:100%;'></div>"
-            }
-          ]
-        }
-      ]
-    }
-]
-    }
+		"propertyKey": "Comune",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [{
+						"key": "*",
+						"value": "url(https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files/terremoto/mappa demografia/dati/icona_demografia.png)"
+					} 
+				]
+			}
+		]
+	}
+    ]
+  }
