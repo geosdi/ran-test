@@ -29,7 +29,7 @@
           "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/demografia/lazio/2pop_res_lazio.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/demografia/lazio/6pop_res_per_classi_anagr_lazio.jpg"]
         }
       ],
-      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.961702344759377&y=43.846546842023024&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Demografia&file=https:%2F%2Fraw.githubusercontent.com%2Fgeosdi%2Fran-test%2Fmain%2Ftest_maltempo_toscana_11_23%2F2_demografia%2Fdemografia_conf.json&guide=true"
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.961702344759377&y=43.846546842023024&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Demografia&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/2_demografia/demografia_conf.json&guide=true"
     },
     {
       "index": 3,
