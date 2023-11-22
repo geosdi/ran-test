@@ -2,12 +2,6 @@
   "global_legend": "",
   "name": "",
   "header_popup": "Demografia",
-  "layers": [
-    {
-      "key": 0,
-      "label": "Demografia"
-    }  
-  ],
   "today": {
     "attachment": [
       {
