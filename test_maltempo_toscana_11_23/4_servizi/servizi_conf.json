@@ -1,1 +1,21 @@
+{
+  "global_legend": "",
+  "name": "",
+  "header_popup": "Servizi",
+  "today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/4_servizi/servizi_dati.geojson"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/4_servizi/servizi_dati.geojson"
 
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/4_servizi/servizi_style.json"
+  ],
+  "navigation_guide": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/4_servizi/servizi_guida.html"
+}
