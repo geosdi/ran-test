@@ -73,7 +73,7 @@
           "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/istruzione/lazio/2istituti_scolastici_lazio.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/istruzione/lazio/6studenti_iscritti_lazio.jpg"]
         }
       ],
-      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=13.522500891636307&y=42.92422093162612&zoom=9.247763210222768&basemap=GOOGLE_SATELLITE&appname=Istruzione&file=https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files%2Fistruzione.json&guide=true"
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.962547704540233&y=43.92453374875639&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Servizi&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/4_servizi/servizi_conf.json&guide=true"
     },
     {
       "index": 5,
