@@ -14,23 +14,23 @@
       "tabs": [
         {
           "header": "Firenze",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Livorno",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Pisa",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Pistoia",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Prato",
-          "image_urls":
+          "image_urls": ""
         }
       ],
       "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.961702344759377&y=43.846546842023024&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Demografia&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/2_demografia/demografia_conf.json&guide=true"
@@ -40,23 +40,23 @@
       "tabs": [
         {
           "header": "Firenze",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Livorno",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Pisa",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Pistoia",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Prato",
-          "image_urls":
+          "image_urls": ""
         }
       ],
       "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.961702344759377&y=43.846546842023024&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Attività produttive&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/3_attivita_produttive/attivita_produttive_conf.json&guide=true"
@@ -66,23 +66,23 @@
       "tabs": [
         {
           "header": "Firenze",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Livorno",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Pisa",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Pistoia",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Prato",
-          "image_urls":
+          "image_urls": ""
         }
       ],
       "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.962547704540233&y=43.92453374875639&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Servizi&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/4_servizi/servizi_conf.json&guide=true"
@@ -92,23 +92,23 @@
       "tabs": [
         {
           "header": "Firenze",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Livorno",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Pisa",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Pistoia",
-          "image_urls":
+          "image_urls": ""
         },
         {
           "header": "Prato",
-          "image_urls":
+          "image_urls": ""
         }
       ],
       "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.962547704540233&y=43.92453374875639&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Turismo&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/5_turismo/turismo_conf.json&guide=true"
