@@ -95,29 +95,7 @@
           "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/turismo/lazio/2esercizi_ricettivi_lazio.jpg", "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/turismo/lazio/6presenze_esercizi_ricettivi_lazio.jpg"]
         }
       ],
-      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=13.522500891636307&y=42.92422093162612&zoom=9.247763210222768&basemap=GOOGLE_SATELLITE&appname=Turismo&file=https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files%2Fturismo.json&guide=true"
-    },
-    {
-      "index": 6,
-      "tabs": [
-        {
-          "header": "Abruzzo",
-          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/cultura/abruzzo/1luoghi_cultura_abruzzo.jpg"]
-        },
-        {
-          "header": "Marche",
-          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/cultura/marche/3luoghi_cultura_marche.jpg"]
-        },
-        {
-          "header": "Umbria",
-          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/cultura/umbria/4luoghi_cultura_umbria.jpg"]
-        },
-        {
-          "header": "Lazio",
-          "image_urls": ["https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/images/cultura/lazio/2luoghi_cultura_lazio.jpg"]
-        }
-      ],
-      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=13.522500891636307&y=42.92422093162612&zoom=9.247763210222768&basemap=GOOGLE_SATELLITE&appname=Cultura&file=https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/emergenze/terremoto-centro-italia/files%2Fcultura.json&guide=true"
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.962547704540233&y=43.92453374875639&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Turismo&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/5_turismo/turismo_conf.json&guide=true"
     }
   ]
 }
