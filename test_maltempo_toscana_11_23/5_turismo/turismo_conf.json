@@ -1,1 +1,21 @@
+{
+  "global_legend": "",
+  "name": "",
+  "header_popup": "Turismo",
+  "today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/5_turismo/turismo_dati.geojson"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/5_turismo/turismo_dati.geojson"
 
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/5_turismo/turismo_style.json"
+  ],
+  "navigation_guide": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/5_turismo/turismo_guida.html"
+}
