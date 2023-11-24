@@ -1,7 +1,7 @@
 {
   "global_legend": "",
-  "name": "",
-  "header_popup": "Le colonne mobili delle Regioni e delle Organizzazioni nazionali di volontariato",
+  "name": "Regioni e Organizzazioni nazionali di volontariato",
+  "header_popup": "Le colonne mobili",
   "strategy_features": "not_intersect",
   "today": {
     "attachment": [
