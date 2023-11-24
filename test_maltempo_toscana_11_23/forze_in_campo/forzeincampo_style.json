@@ -1,0 +1,23 @@
+{
+    "style_properties": [
+{
+		"propertyKey": "Tipo colonna mobile",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [{
+						"key": "CMR",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/forze_in_campo/icona_forzecmr.png)"
+
+					},
+{
+						"key": "ODV",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/forze_in_campo/icona_forzeodv.png)"
+
+					} 
+				]
+			}
+		]
+	}
+    ]
+  }
