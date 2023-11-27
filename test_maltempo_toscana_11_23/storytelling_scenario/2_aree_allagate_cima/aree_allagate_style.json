@@ -1,7 +1,7 @@
 {
     "style_properties": [
       {
-        "propertyKey": "geometry",
+        "propertyKey": "tipo",
         "properties": [
             {
                 "property": "fillColor",
