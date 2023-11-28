@@ -2,6 +2,7 @@
   "global_legend": "",
   "name": "",
   "header_popup": "Aree allagate",
+  "strategy_features": "not_intersect",
   "layers": [
     {
       "key": 0,
