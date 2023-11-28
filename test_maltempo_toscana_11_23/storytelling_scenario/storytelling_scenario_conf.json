@@ -1,13 +1,13 @@
 {
-  "header": " Le caratteristiche dei territori colpiti",
+  "header": "Lo scenario di allagamento",
   "sub_header": "ALLUVIONE TOSCANA - novembre 2023",
   "regions": ["Firenze", "Livorno", "Pisa", "Pistoia","Prato"],
   "views": [
     {
       "index": 1,
       "homePage": true,
-      "image_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.961702344759377&y=44.00241855117349&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Le aree allagate&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/aree_cima_conf.json&guide=true",
-      "text": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/copertina/testostory.html"
+      "image_url": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/1_copertina/Immagine_copertina_scenario.jpg",
+      "text": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/1_copertina/testostory_scenario.html"
     },
     {
       "index": 2,
@@ -33,7 +33,7 @@
           "image_urls": ""
         }
       ],
-      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.961702344759377&y=43.846546842023024&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Demografia&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/2_demografia/demografia_conf.json&guide=true"
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=10.961702344759377&y=44.00241855117349&zoom=9.7&basemap=GOOGLE_SATELLITE&appname=Le aree allagate&file=https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/aree_cima_conf.json&guide=true"
     },
     {
       "index": 3,
