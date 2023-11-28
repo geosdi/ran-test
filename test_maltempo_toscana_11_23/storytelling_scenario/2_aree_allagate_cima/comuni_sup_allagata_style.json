@@ -1,0 +1,17 @@
+{
+    "style_properties": [
+    {
+		"propertyKey": "Comune",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [{
+						"key": "*",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/icona_aree_allagate.png)"
+					} 
+				]
+			}
+		]
+	}
+    ]
+}
