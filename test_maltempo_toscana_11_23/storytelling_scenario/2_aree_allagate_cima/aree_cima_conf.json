@@ -11,7 +11,11 @@
     {
       "key": 1,
       "label": "Aree allagate"
-    }  
+    },
+    {
+      "key": 2,
+      "label": "Sup. allagate per comune"
+    }
   ],
   "today": {
     "attachment": [
@@ -20,18 +24,23 @@
       },
       {
         "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/aree_allagate_dati.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/comuni_sup_allagata_dati.geojson"
       }
     ],
     "topo_json": [
       
       "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/comuni_interessati_dati.geojson",
-      "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/aree_allagate_dati.geojson"
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/aree_allagate_dati.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/comuni_sup_allagata_dati.geojson"
     ],
     "html_description": ""
   },
   "style": [
     "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/comuni_interessati_style.json",
-   "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/aree_allagate_style.json"
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/aree_allagate_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/comuni_sup_allagata_style.json"
   ],
   "navigation_guide": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/aree_cima_guida.html"
 }
