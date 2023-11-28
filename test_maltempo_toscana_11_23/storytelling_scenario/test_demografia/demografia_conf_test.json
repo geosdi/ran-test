@@ -1,1 +1,22 @@
+{
+  "global_legend": "",
+  "name": "",
+  "header_popup": "Demografia",
+  "strategy_features": "not_intersect",
+  "today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/2_demografia/demografia_dati.geojson"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/2_demografia/demografia_dati.geojson"
 
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/2_demografia/demografia_style.geojson"
+  ],
+  "navigation_guide": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/2_demografia/demografia_guida.html"
+}
