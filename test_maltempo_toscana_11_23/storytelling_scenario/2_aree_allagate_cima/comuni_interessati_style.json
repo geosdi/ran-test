@@ -8,7 +8,7 @@
                 "values": [
                   {
                     "key": "*",
-                    "value": "#343434"
+                    "value": "#cacaca"
                   }
                 ]
               },
@@ -35,7 +35,7 @@
                 "values": [
                   {
                     "key": "*",
-                    "value": ".2"
+                    "value": ".5"
                   }
                 ]
               },
