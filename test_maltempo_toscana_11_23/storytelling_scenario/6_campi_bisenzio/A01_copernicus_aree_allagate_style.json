@@ -4,6 +4,33 @@
       "propertyKey": "descrizione",
       "properties": [
         {
+                "property": "color",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "black"
+                  }
+                ]
+	},
+	{
+                "property": "weight",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "0"
+                  }
+                ]
+        },
+	{
+                "property": "opacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "0"
+                  }
+                ]
+        },
+	{
           "property": "fillColor",
           "values": [
             {
