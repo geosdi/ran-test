@@ -1,1 +1,37 @@
-
+{
+  "global_legend": "",
+  "name": "",
+  "header_popup": "Aree allagate",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,    
+      "label": "Aree allagate"
+    },
+    {
+      "key": 1,
+      "label": "Foto"
+    }
+  ],
+  "today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/6_campi_bisenzio/A01_copernicus_aree_allagate_dati.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/6_campi_bisenzio/campi_bisenzio_foto.geojson"
+      }
+    ],
+    "topo_json": [
+      
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/6_campi_bisenzio/A01_copernicus_aree_allagate_dati.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/6_campi_bisenzio/campi_bisenzio_foto.geojson" 
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/6_campi_bisenzio/A01_copernicus_aree_allagate_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/6_campi_bisenzio/campi_bisenzio_foto_style.json"
+  ],
+  "navigation_guide": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/6_campi_bisenzio/campi_bisenzio_guida.html"
+}
