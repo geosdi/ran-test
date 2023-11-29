@@ -13,6 +13,23 @@
                 ]
 	},
 	{
+          "property": "fillColor",
+          "values": [
+            {
+              "key": "0.15 - 0.50",
+              "value": "#46b8ff"
+            },
+            {
+              "key": "0.50 - 1.00",
+              "value": "#309ee7"
+            },
+			{
+              "key": "1.00 - 2.00",
+              "value": "#1f78b4"
+            }
+          ]
+        },
+	{
                 "property": "weight",
                 "values": [
                   {
@@ -29,23 +46,6 @@
                     "value": "0.1"
                   }
                 ]
-        },
-	{
-          "property": "fillColor",
-          "values": [
-            {
-              "key": "0.15 - 0.50",
-              "value": "#46b8ff"
-            },
-            {
-              "key": "0.50 - 1.00",
-              "value": "#309ee7"
-            },
-			{
-              "key": "1.00 - 2.00",
-              "value": "#1f78b4"
-            }
-          ]
         },
         {
           "property": "fillOpacity",
