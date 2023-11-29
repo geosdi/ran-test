@@ -1,0 +1,17 @@
+{
+    "style_properties": [
+    {
+		"propertyKey": "link",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [{
+						"key": "*",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/6_campi_bisenzio/icona_foto.png)"
+					} 
+				]
+			}
+		]
+	}
+    ]
+}
