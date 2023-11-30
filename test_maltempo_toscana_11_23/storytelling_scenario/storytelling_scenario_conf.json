@@ -59,7 +59,7 @@
           "image_urls": ""
         }
       ],
-      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?mapid=11870-8151&x=11.033192989499799&y=43.905555893114666&zoom=15.050309059090107&basemap=GOOGLE_HYBRID&appname=Montemurlo%201:%20confronto%20pre%20e%20post&splitmap=true&left=GOOGLE_HYBRID&right=EME_TOSC_11_2023:EMSR705_AOI06_GRA_PRODUCT_PLEIADES1_20231105_0953_ORTHO&guide=true"
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=11.136503413810932&y=43.81471813596446&zoom=14.383323001792146&basemap=GOOGLE_SATELLITE&appname=Campi%20Bisenzio:%20aree%20allagate&file=https:%2F%2Fraw.githubusercontent.com%2Fgeosdi%2Fran-test%2Fmain%2Ftest_maltempo_toscana_11_23%2Fstorytelling_scenario%2F6_campi_bisenzio%2Fcampi_bisenzio_foto_conf.json&guide=true"
     },
     {
       "index": 4,
@@ -85,7 +85,7 @@
           "image_urls": ""
         }
       ],
-      "maplite_url": ""
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?mapid=11872-8151&x=11.132276090597252&y=43.810196676193236&zoom=15.630942205723528&basemap=GOOGLE_HYBRID&splitmap=true&left=GOOGLE_HYBRID&right=EME_TOSC_11_2023:campi_bisenzio_20231104_rgb_planet"
     },
     {
       "index": 5,
@@ -111,7 +111,7 @@
           "image_urls": ""
         }
       ],
-      "maplite_url": ""
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?mapid=11873-8151&x=10.38321746268146&y=43.62063693181421&zoom=12.827085128886617&basemap=GOOGLE_HYBRID&splitmap=true&left=GOOGLE_HYBRID&right=EME_TOSC_11_2023:collesalvetti_20231103_rgb_planet"
     },
     {
       "index": 6,
@@ -137,7 +137,59 @@
           "image_urls": ""
         }
       ],
-      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?x=11.136503413810932&y=43.81471813596446&zoom=14.383323001792146&basemap=GOOGLE_SATELLITE&appname=Campi%20Bisenzio:%20aree%20allagate&file=https:%2F%2Fraw.githubusercontent.com%2Fgeosdi%2Fran-test%2Fmain%2Ftest_maltempo_toscana_11_23%2Fstorytelling_scenario%2F6_campi_bisenzio%2Fcampi_bisenzio_foto_conf.json&guide=true"
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?mapid=11874-8151&x=11.022339061073644&y=43.870249427604264&zoom=15.036190706302166&basemap=GOOGLE_HYBRID&splitmap=true&left=GOOGLE_HYBRID&right=EME_TOSC_11_2023:prato_20231104_rgb_planet"
+    },
+    {
+      "index": 7,
+      "tabs": [
+        {
+          "header": "Firenze",
+          "image_urls": ""
+        },
+        {
+          "header": "Livorno",
+          "image_urls": ""
+        },
+        {
+          "header": "Pisa",
+          "image_urls": ""
+        },
+        {
+          "header": "Pistoia",
+          "image_urls": ""
+        },
+        {
+          "header": "Prato",
+          "image_urls": ""
+        }
+      ],
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?mapid=11875-8151&x=11.008547007080924&y=43.8445436047916&zoom=15.235821175866198&basemap=GOOGLE_HYBRID&splitmap=true&left=GOOGLE_HYBRID&right=EME_TOSC_11_2023:pistoia_20231105_rgb_planet"
+    },
+{
+      "index": 8,
+      "tabs": [
+        {
+          "header": "Firenze",
+          "image_urls": ""
+        },
+        {
+          "header": "Livorno",
+          "image_urls": ""
+        },
+        {
+          "header": "Pisa",
+          "image_urls": ""
+        },
+        {
+          "header": "Pistoia",
+          "image_urls": ""
+        },
+        {
+          "header": "Prato",
+          "image_urls": ""
+        }
+      ],
+      "maplite_url": "https://maplite.protezionecivile.it/#/view/dashboard?mapid=11870-8151&x=11.033192989499799&y=43.905555893114666&zoom=15.050309059090107&basemap=GOOGLE_HYBRID&splitmap=true&left=GOOGLE_HYBRID&right=EME_TOSC_11_2023:EMSR705_AOI06_GRA_PRODUCT_PLEIADES1_20231105_0953_ORTHO"
     }
   ]
 }
