@@ -20,7 +20,7 @@
   "today": {
     "attachment": [
       {
-        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/comuni_interessati_dati.geojson"
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/comuni_interessati_dati.geojson"
       },
       {
         "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/aree_allagate_dati.geojson"
@@ -31,7 +31,7 @@
     ],
     "topo_json": [
       
-      "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/comuni_interessati_dati.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/comuni_interessati_dati.geojson",
       "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/aree_allagate_dati.geojson",
       "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/comuni_sup_allagata_dati.geojson"
     ],
