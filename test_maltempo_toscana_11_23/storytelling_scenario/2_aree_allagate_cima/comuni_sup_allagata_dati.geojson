@@ -64,6 +64,10 @@
 { "type": "Feature", "properties": { "Comune": "Montemurlo", "Superficie allagata (%)": 0.3, "Superficie allagata (Kmq)": 0.1 }, "geometry": { "type": "Point", "coordinates": [ 11.05648832791252, 43.936391343781104 ] } },
 { "type": "Feature", "properties": { "Comune": "Prato", "Superficie allagata (%)": 2.5, "Superficie allagata (Kmq)": 2.4 }, "geometry": { "type": "Point", "coordinates": [ 11.084770134330077, 43.878164653772018 ] } },
 { "type": "Feature", "properties": { "Comune": "Vaiano", "Superficie allagata (%)": 0.0, "Superficie allagata (Kmq)": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 11.134514418605908, 43.952893130968839 ] } },
-{ "type": "Feature", "properties": { "Comune": "Vernio", "Superficie allagata (%)": 0.0, "Superficie allagata (Kmq)": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 11.151688075897159, 44.067340023188486 ] } }
+{ "type": "Feature", "properties": { "Comune": "Vernio", "Superficie allagata (%)": 0.0, "Superficie allagata (Kmq)": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 11.151688075897159, 44.067340023188486 ] } },
+{ "type": "Feature", "properties": { "Comune": "Montaione", "Superficie allagata (%)": 0.0, "Superficie allagata (Kmq)": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 10.881890507693617, 43.559411116350581 ] } },
+{ "type": "Feature", "properties": { "Comune": "Lastra a Signa", "Superficie allagata (%)": 0.0, "Superficie allagata (Kmq)": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 11.083606327797167, 43.744865079422027 ] } },
+{ "type": "Feature", "properties": { "Comune": "Reggello", "Superficie allagata (%)": 0.0, "Superficie allagata (Kmq)": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 11.520540701124379, 43.696609852821751 ] } },
+{ "type": "Feature", "properties": { "Comune": "Dicomano", "Superficie allagata (%)": 0.0, "Superficie allagata (Kmq)": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 11.551700001025269, 43.9150237309494 ] } }
 ]
 }
