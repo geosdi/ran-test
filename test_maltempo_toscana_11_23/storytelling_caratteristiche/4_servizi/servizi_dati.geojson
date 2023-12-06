@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "Comune": "Santa Maria a Monte", "Scuole (statali e paritarie)": 13, "Istituti di cura (pubblici e privati)": 0.0 , "Posti letto": 0, "Istituti museali o similari": 3 }, "geometry": { "type": "Point", "coordinates": [ 10.686322072577457, 43.706237428073237 ] } },
+{ "type": "Feature", "properties": { "Comune": "Santa Maria a Monte", "Scuole (statali e paritarie)": 13, "Istituti di cura (pubblici e privati)": 0, "Posti letto": 0, "Istituti museali o similari": 3 }, "geometry": { "type": "Point", "coordinates": [ 10.686322072577457, 43.706237428073237 ] } },
 { "type": "Feature", "properties": { "Comune": "Bientina", "Scuole (statali e paritarie)": 6, "Istituti di cura (pubblici e privati)": 0, "Posti letto": 0, "Istituti museali o similari": 2 }, "geometry": { "type": "Point", "coordinates": [ 10.641650326091019, 43.729438123363757 ] } },
 { "type": "Feature", "properties": { "Comune": "Crespina Lorenzana", "Scuole (statali e paritarie)": 5, "Istituti di cura (pubblici e privati)": 0, "Posti letto": 0, "Istituti museali o similari": 1 }, "geometry": { "type": "Point", "coordinates": [ 10.551711596672375, 43.569955464166114 ] } },
 { "type": "Feature", "properties": { "Comune": "Santa Croce sull'Arno", "Scuole (statali e paritarie)": 12, "Istituti di cura (pubblici e privati)": 0, "Posti letto": 0, "Istituti museali o similari": 0 }, "geometry": { "type": "Point", "coordinates": [ 10.769227752736825, 43.722716330528279 ] } },
