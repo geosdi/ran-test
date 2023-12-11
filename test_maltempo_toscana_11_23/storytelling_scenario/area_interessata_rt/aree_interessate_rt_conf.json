@@ -23,7 +23,10 @@
         "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/comuni_interessati_dati.geojson"
       },
       {
-        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/area_evento_rt/aree_evento_rt_dati.geojson"
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/area_interessata_rt/aree_interessate_rt_dati.geojson"
+      },
+      {
+        "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/area_interessata_rt/comuni_sup_aree_interessate_rt_dati.geojson"
       }
     ],
     "topo_json": [
