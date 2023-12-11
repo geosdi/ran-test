@@ -42,5 +42,5 @@
     "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/area_interessata_rt/aree_interessate_rt_style.json",
     "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/2_aree_allagate_cima/comuni_sup_allagata_style.json"
   ],
-  "navigation_guide": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/area_evento_rt/aree_interessate_rt_guida.html"
+  "navigation_guide": "https://raw.githubusercontent.com/geosdi/ran-test/main/test_maltempo_toscana_11_23/storytelling_scenario/area_interessata_rt/aree_interessate_rt_guida.html"
 }
