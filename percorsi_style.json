@@ -1,0 +1,60 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "percorrenz",
+      "ant": [
+        {
+          "value": "Andata",
+          "type": "polyline",
+          "options": {
+            "delay": 800,
+            "dashArray": [
+              48,
+              20
+            ],
+            "weight": 5,
+            "color": "green",
+            "pulseColor": "#FFFFFF",
+            "paused": false,
+            "reverse": false,
+            "hardwareAccelerated": true
+          }
+        },
+        {
+          "value": "Ritorno",
+          "type": "polyline",
+          "options": {
+            "delay": 800,
+            "dashArray": [
+              48,
+              20
+            ],
+            "weight": 5,
+            "color": "red",
+            "pulseColor": "#FFFFFF",
+            "paused": false,
+            "reverse": false,
+            "hardwareAccelerated": true
+          }
+        },
+        {
+          "value": "Andata / Ritorno",
+          "type": "polyline",
+          "options": {
+            "delay": 800,
+            "dashArray": [
+              48,
+              20
+            ],
+            "weight": 5,
+            "color": "violet",
+            "pulseColor": "#FFFFFF",
+            "paused": false,
+            "reverse": true,
+            "hardwareAccelerated": true
+          }
+        }
+      ]
+    }
+  ]
+}
