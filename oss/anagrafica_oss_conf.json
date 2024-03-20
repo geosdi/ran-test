@@ -26,6 +26,8 @@
       }
     ],
     "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_peric_sism_dati.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_staz_dati.geojson"
     ],
     "html_description": ""
   },
