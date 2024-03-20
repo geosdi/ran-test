@@ -56,6 +56,33 @@
             }
           ]
         },
+	 {
+          "property": "color",
+          "values": [
+            {
+              "key": "*",
+              "value": "#d19853"
+            }
+          ]
+        },
+{
+          "property": "weight",
+          "values": [
+            {
+              "key": "*",
+              "value": "0.1"
+            }
+          ]
+        },
+        {
+          "property": "opacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "0.0"
+            }
+          ]
+        },     
         {
           "property": "fillOpacity",
           "values": [
