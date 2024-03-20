@@ -17,17 +17,21 @@
 "today": {
     "attachment": [
       {
-        "geojson": "https://anagrafica_oss.geojson"
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_peric_sism_dati.geojson"
+
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_staz_dati.geojson"
+
       }
     ],
     "topo_json": [
-      "",
-   
     ],
-    "html_description": "eventuale descrizione html qui"
+    "html_description": ""
   },
   "style": [
-      "https://oss_anagrafica_stazioni_style.json",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_peric_sism_style.json",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_stazioni_style.json"
  
   ],
   "treeStyle": ""
