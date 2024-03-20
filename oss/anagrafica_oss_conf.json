@@ -1,0 +1,34 @@
+{
+  "global_legend": "",
+  "name": "Anagrafica Stazioni",
+  "header_popup": "Stazioni OSS",
+  "image_url": "",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,    
+      "label": "Pericolosità sismica"
+    },
+    {
+      "key": 1,
+      "label": "Stazioni OSS"
+    }
+      ],
+"today": {
+    "attachment": [
+      {
+        "geojson": "https://anagrafica_oss.geojson"
+      }
+    ],
+    "topo_json": [
+      "",
+   
+    ],
+    "html_description": "eventuale descrizione html qui"
+  },
+  "style": [
+      "https://oss_anagrafica_stazioni_style.json",
+ 
+  ],
+  "treeStyle": ""
+}

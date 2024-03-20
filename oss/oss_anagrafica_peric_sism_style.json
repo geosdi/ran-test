@@ -1,0 +1,71 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "valore_g",
+      "properties": [
+                {
+          "property": "fillColor",
+          "values": [
+            {
+              "key": "< 0.025",
+              "value": "#e3e3e3"
+            },
+			{
+              "key": "0.025 - 0.050",
+              "value": "#c0c0c0"
+            },
+			{
+              "key": "0.050 - 0.075",
+              "value": "#ccffff"
+            },
+			{
+              "key": "0.075 - 0.100",
+              "value": "#66feff"
+            },
+			{
+              "key": "0.100 - 0.125",
+              "value": "#99ff99"
+            },
+			{
+              "key": "0.125 - 0.150",
+              "value": "#00ff01"
+            },
+			{
+              "key": "0.150 - 0.175",
+              "value": "#feff99"
+            },
+			{
+              "key": "0.175 - 0.200",
+              "value": "#ffcc00"
+            },
+			{
+              "key": "0.200 - 0.225",
+              "value": "#fb6801"
+            },
+			{
+              "key": "0.225 - 0.250",
+              "value": "#fe0000"
+            },
+			{
+              "key": "0.250 - 0.275",
+              "value": "#cc00ff"
+            },
+			{
+              "key": "0.275 - 0.300",
+              "value": "#6766cc"
+            }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "0.8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
