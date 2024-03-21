@@ -35,5 +35,5 @@
       "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_stazioni_style.json"
  
   ],
-  "treeStyle": ""
+  "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_stazioni_treestyle.json"
 }
