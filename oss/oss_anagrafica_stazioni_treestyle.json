@@ -1,0 +1,110 @@
+{
+  "nodes": [
+    {
+      "key": "0",
+      "label": "Pericolosità sismica",
+      "filterKey": "valore_g",
+      "filterValue": "*",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#e3e3e3",
+          "type": "icon",
+          "css_style": "height: 15px;width: 30px;display: inline-block; border: 1px solid"
+        },
+		{
+          "selectable": false,
+          "color": "#c0c0c0",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        },
+		{
+          "selectable": false,
+          "color": "#ccffff",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        },
+		{
+          "selectable": false,
+          "color": "#66feff",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        },
+		{
+          "selectable": false,
+          "color": "#66feff",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        },
+		{
+          "selectable": false,
+          "color": "#99ff99",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        },
+		{
+          "selectable": false,
+          "color": "#00ff01",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        },
+		{
+          "selectable": false,
+          "color": "#feff99",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        },
+		{
+          "selectable": false,
+          "color": "#ffcc00",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        },
+		{
+          "selectable": false,
+          "color": "#fb6801",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        },
+		{
+          "selectable": false,
+          "color": "#fe0000",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        },
+		{
+          "selectable": false,
+          "color": "#cc00ff",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        },
+		{
+          "selectable": false,
+          "color": "#6766cc",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        }
+      ]
+    },
+    {
+      "key": "1",
+      "label": "Stazioni OSS",
+      "filterKey": "Sigla_stazione",
+      "filterValue": "*",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#FFFFFF",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        }
+      ]
+     }
+  ]
+}
