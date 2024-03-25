@@ -109,7 +109,7 @@
           "selectable": false,
           "color": "#FFFFFF",
           "type": "icon",
-          "css_style": "content: url('triangolo.svg'); width:40px;"
+          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/oss/staz_oss.svg'); width:40px;"
         },    
       ]
      }
