@@ -34,6 +34,5 @@
       "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_peric_sism_style.json",
       "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_stazioni_style.json"
  
-  ],
-   "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_stazioni_treestyle.json"
+  ]
 }
