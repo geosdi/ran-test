@@ -1,0 +1,46 @@
+{
+  "form_groups": [
+    {
+      "fields": [
+        {
+          "field_type": "TEXT",
+          "placeholder": "terremoti-filters.location",
+          "binding_key": "event_location_name"
+        },
+        {
+          "field_type": "DATE",
+          "date_selection_mode": "range",
+          "placeholder": "terremoti-filters.choose_date",
+          "binding_key": "time"
+        },
+        {
+          "field_type": "DROPDOWN",
+          "placeholder": "terremoti-filters.magnitudo",
+          "binding_key": "magnitude",
+          "options": [
+            {
+              "name": "2+",
+              "value": "2"
+            },
+            {
+              "name": "3+",
+              "value": "3"
+            },
+            {
+              "name": "4+",
+              "value": "4"
+            },
+            {
+              "name": "5+",
+              "value": "5"
+            }
+          ]
+        },
+        {
+          "field_type": "BUTTON"
+        }
+      ]
+    }
+  ],
+  "label_total": "terremoti-filters.tot_terremoti"
+}
