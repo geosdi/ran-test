@@ -22,7 +22,7 @@
     {
       "fields": [
         {
-          "field_type": "DROPDOWN",
+          "field_type": "MULTISELECT",
           "show_clear": true,
           "options": [
             {
