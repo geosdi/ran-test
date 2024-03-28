@@ -1,0 +1,71 @@
+{
+  "form_groups": [
+    {
+      "fields": [
+        {
+          "field_type": "TEXT",
+          "placeholder": "Regione",
+          "binding_key": "Regione"
+        },
+        {
+          "field_type": "TEXT",
+          "placeholder": "Provincia",
+          "binding_key": "Provincia"
+        },
+        {
+          "field_type": "TEXT",
+          "placeholder": "Comune",
+          "binding_key": "Comune"
+        }
+      ]
+    },
+    {
+      "fields": [
+        {
+          "field_type": "DROPDOWN",
+          "show_clear": true,
+          "options": [
+            {
+              "name": "Diga",
+              "value": "DIGA"
+            },
+            {
+              "name": "Municipio",
+              "value": "MUNICIPIO"
+            },
+            {
+              "name": "Ospedale",
+              "value": "OSPEDALE"
+            },
+            {
+              "name": "Ponte",
+              "value": "PONTE"
+            },
+            {
+              "name": "Prefettura",
+              "value": "PREFETTURA"
+            },
+            {
+              "name": "Scuola",
+              "value": "SCUOLA"
+            },
+            {
+              "name": "Sede COM",
+              "value": "sede COM"
+            },
+            {
+              "name": "Altro",
+              "value": "ALTRO EDIFICIO"
+            }
+          ],
+          "binding_key": "Classificazione",
+          "placeholder": "Tipo edificio"
+        },
+        {
+          "field_type": "BUTTON"
+        }
+      ]
+    }
+  ],
+  "label_total": "Totale"
+}

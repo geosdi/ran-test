@@ -1,0 +1,85 @@
+{
+  "global_legend": "",
+  "name": "Anagrafica Stazioni",
+  "header_popup": "Stazioni OSS",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Pericolosità sismica"
+    },
+    {
+      "key": 1,
+      "label": "Stazioni OSS"
+    }
+  ],
+  "today": {
+    "attachment": [
+      {
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_peric_sism_dati.geojson"
+      },
+      {
+        "geojson": "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_staz_dati.geojson"
+      }
+    ],
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_peric_sism_dati.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_staz_dati.geojson"
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_peric_sism_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_stazioni_style.json"
+  ],
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_filter_conf.json",
+    "refresh": true,
+    "filters_type": [
+      {
+        "filterFunction": "textInclude",
+        "binding_key": "Regione",
+        "operator": "and",
+        "filter_on_fields": [
+          "Regione"
+        ],
+        "layers": [
+          1
+        ]
+      },
+      {
+        "filterFunction": "textInclude",
+        "binding_key": "Provincia",
+        "operator": "and",
+        "filter_on_fields": [
+          "Provincia"
+        ],
+        "layers": [
+          1
+        ]
+      },
+      {
+        "filterFunction": "textInclude",
+        "binding_key": "Comune",
+        "operator": "and",
+        "filter_on_fields": [
+          "Comune"
+        ],
+        "layers": [
+          1
+        ]
+      },
+      {
+        "operator": "and",
+        "filter_function": "textInclude",
+        "binding_key": "Classificazione",
+        "filter_on_fields": [
+          "Classificazione"
+        ],
+        "layers": [
+          1
+        ]
+      }
+    ]
+  }
+}
