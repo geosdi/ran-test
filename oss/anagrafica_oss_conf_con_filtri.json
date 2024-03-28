@@ -70,7 +70,7 @@
         ]
       },
       {
-        "operator": "and",
+        "operator": "or",
         "filter_function": "textInclude",
         "binding_key": "Classificazione",
         "filter_on_fields": [
