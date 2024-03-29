@@ -1,0 +1,67 @@
+{
+  "global_legend": "",
+  "name": "Anagrafica stazioni",
+  "header_popup": "Stazioni RAN",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,    
+      "label": "Pericolosità sismica"
+    },
+    {
+      "key": 1,
+      "label": "Stazioni RAN"
+    }
+      ],
+  "today": {
+
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_peric_sism_dati.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/anagrafica_stazioni/ran_anagrafica_stazioni.geojson"
+     ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_peric_sism_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/anagrafica_stazioni/ran_anagrafica_stazioni_style.json"
+  ],
+  "filter_config": {
+    "url": "...",
+    "refresh": true,
+    "filters_type": [
+      {
+        "filterFunction": "textInclude",
+        "binding_key": "Regione",
+        "operator": "and",
+        "filter_on_fields": [
+          "Regione"
+        ],
+        "layers": [
+          1
+        ]
+      },
+      {
+        "filterFunction": "textInclude",
+        "binding_key": "Provincia",
+        "operator": "and",
+        "filter_on_fields": [
+          "Provincia"
+        ],
+        "layers": [
+          1
+        ]
+      },
+      {
+        "filterFunction": "textInclude",
+        "binding_key": "Comune",
+        "operator": "and",
+        "filter_on_fields": [
+          "Comune"
+        ],
+        "layers": [
+          1
+        ]
+      }
+	 ] 
+  }
+}
