@@ -46,7 +46,7 @@
         "filter_function": "equalOrSup",
         "binding_key": "magnitude",
         "filter_on_fields": [
-          "magnitude"
+          "ml"
         ],
         "layers": [
           1
