@@ -1,0 +1,41 @@
+{
+  "form_groups": [
+    {
+      "fields": [
+        {
+          "field_type": "DATE",
+          "date_selection_mode": "range",
+          "placeholder": "Data",
+          "binding_key": "time"
+        },
+        {
+          "field_type": "DROPDOWN",
+          "placeholder": "Magnitudo",
+          "binding_key": "magnitude",
+          "options": [
+            {
+              "name": "2.5+",
+              "value": "2.5"
+            },
+            {
+              "name": "3.5+",
+              "value": "3.5"
+            },
+            {
+              "name": "4.5+",
+              "value": "4.5"
+            },
+            {
+              "name": "5.5+",
+              "value": "5.5"
+            }
+          ]
+        },
+        {
+          "field_type": "BUTTON"
+        }
+      ]
+    }
+  ],
+  "label_total": "Totale"
+}

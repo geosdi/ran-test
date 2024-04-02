@@ -1,0 +1,57 @@
+{
+  "global_legend": "",
+  "name": "Eventi RAN",
+  "header_popup": "Eventi RAN",
+  "strategy_features": "not_intersect",
+  "layers": [
+    
+    {
+      "key": 0,    
+      "label": "Pericolosità sismica"
+    },  
+    {
+      "key": 1,
+      "label": "Eventi RAN"
+    }
+      ],
+  "today": {
+
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_peric_sism_dati.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi/ran_eventi_dati.geojson"
+     ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_peric_sism_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi/ran_eventi_style.json"
+  ],
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi/ran_eventi_filter_conf.json",
+    "refresh": true,
+    "filters_type": [
+       {
+        "filter_function": "rangeDate",
+        "operator": "and",
+        "binding_key": "time",
+        "filter_on_fields": [
+          "time"
+        ],
+        "layers": [
+          1
+        ]
+      },
+      {
+        "operator": "and",
+        "filter_function": "equalOrSup",
+        "binding_key": "magnitude",
+        "filter_on_fields": [
+          "magnitude"
+        ],
+        "layers": [
+          1
+        ]
+      }
+    ]
+  }
+}
