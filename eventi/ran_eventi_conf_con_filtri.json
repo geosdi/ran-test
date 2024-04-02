@@ -1,6 +1,6 @@
 {
   "global_legend": "",
-  "name": "Eventi RAN",
+  "name": "Localizzazione eventi RAN",
   "header_popup": "Eventi RAN",
   "strategy_features": "not_intersect",
   "layers": [
