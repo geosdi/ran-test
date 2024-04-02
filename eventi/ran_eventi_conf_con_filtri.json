@@ -29,13 +29,13 @@
   "filter_config": {
     "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi/ran_eventi_filter_conf.json",
     "refresh": true,
-    "filters_url": [
+  "filters_url": [
       {
         "value": "data",
         "binding_key": "time"
       }
     ],
-    "filters_type": [
+  "filters_type": [
        {
         "filter_function": "rangeDate",
         "operator": "and",
