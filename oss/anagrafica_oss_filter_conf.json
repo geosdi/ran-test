@@ -16,12 +16,8 @@
           "field_type": "TEXT",
           "placeholder": "Comune",
           "binding_key": "Comune"
-        }
-      ]
-    },
-    {
-      "fields": [
-        {
+        },
+		{
           "field_type": "MULTISELECT",
           "show_clear": true,
           "options": [
