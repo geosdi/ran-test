@@ -2,6 +2,7 @@
   "global_legend": "",
   "name": "Anagrafica Stazioni",
   "header_popup": "Stazioni OSS",
+  "image_url": "",
   "strategy_features": "not_intersect",
   "layers": [
     {
