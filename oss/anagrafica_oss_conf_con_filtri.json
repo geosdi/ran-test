@@ -2,7 +2,7 @@
   "global_legend": "",
   "name": "Anagrafica Stazioni",
   "header_popup": "Stazioni OSS",
-  "external_logo":": "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/logo_oss.png",
+  "external_logo": "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/logo_oss.png",
   "strategy_features": "not_intersect",
   "layers": [
     {
