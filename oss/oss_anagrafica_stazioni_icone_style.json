@@ -10,7 +10,7 @@
 						"key": "ALTRO EDIFICIO",
 						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/oss/icone/altro.png)",
 					        "options": {
-						   "fillOpacity": 0.8
+						   "opacity": 0.5
                                                        }
 					},
 					{
