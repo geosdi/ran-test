@@ -1,0 +1,46 @@
+{
+    "style_properties": [
+    {
+		"propertyKey": "Classificazione",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [
+				    {
+						"key": "ALTRO EDIFICIO",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/oss/icone/altro.png)"
+					},
+					{
+						"key": "DIGA",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/oss/icone/diga.png)"
+					},
+					{
+						"key": "MUNICIPIO",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/oss/icone/municipio.png)"
+					},
+					{
+						"key": "OSPEDALE",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/oss/icone/ospedale.png)"
+					},
+					{
+						"key": "PONTE",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/oss/icone/ponte.png)"
+					},
+					{
+						"key": "PREFETTURA",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/oss/icone/prefettura.png)"
+					},
+					{
+						"key": "SCUOLA",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/oss/icone/scuola.png)"
+					},
+					{
+						"key": "sede COM",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/oss/icone/com.png)"
+					}
+				]
+			}
+		]
+	}
+  ]
+}
