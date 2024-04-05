@@ -31,7 +31,7 @@
   },
   "style": [
     "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_peric_sism_style.json",
-    "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_stazioni_style.json"
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_stazioni_icone_style.json"
   ],
   "filter_config": {
     "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_filter_conf.json",
