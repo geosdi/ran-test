@@ -93,7 +93,7 @@
     {
       "key": "1",
       "label": "Stazioni OSS",
-      "filterKey": "Sigla_stazione",
+      "filterKey": "SIGLA",
       "filterValue": "*",
       "expanded": true,
       "visible": true,
