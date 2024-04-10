@@ -1,7 +1,7 @@
 {
     "style_properties": [
     {
-		"propertyKey": "Classificazione",
+		"propertyKey": "CLASSIFICAZIONE",
 		"properties": [
 			{
 				"property": "icon",
@@ -35,7 +35,7 @@
 						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/oss/icone/scuola.png)"
 					},
 					{
-						"key": "sede COM",
+						"key": "sedeCOM",
 						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/oss/icone/com.png)"
 					}
 				]
