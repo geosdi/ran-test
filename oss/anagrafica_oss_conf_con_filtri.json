@@ -42,7 +42,7 @@
         "binding_key": "Regione",
         "operator": "and",
         "filter_on_fields": [
-          "Regione"
+          "REGIONE"
         ],
         "layers": [
           1
@@ -53,7 +53,7 @@
         "binding_key": "Provincia",
         "operator": "and",
         "filter_on_fields": [
-          "Provincia"
+          "PROVINCIA"
         ],
         "layers": [
           1
@@ -64,7 +64,7 @@
         "binding_key": "Comune",
         "operator": "and",
         "filter_on_fields": [
-          "Comune"
+          "COMUNE"
         ],
         "layers": [
           1
@@ -75,7 +75,7 @@
         "filter_function": "textInclude",
         "binding_key": "Classificazione",
         "filter_on_fields": [
-          "Classificazione"
+          "CLASSIFICAZIONE"
         ],
         "layers": [
           1
