@@ -2,7 +2,7 @@
   "global_legend": "",
   "name": "Dighe:comuni a valle",
   "header_popup": "Dighe",
-  "strategy_features": "not_intersect",
+  "strategy_features": "intersect",
   "layers": [
     {
       "key": 0,    
