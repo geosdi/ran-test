@@ -1,0 +1,25 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "idDiga",
+      "properties": [
+        {
+          "property": "shape",
+          "values": [
+            {
+              "key": "*",
+              "value": "triangle",
+              "options": {
+                "fillColor": "#FFFFFF",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.8,
+                "radius": 6
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

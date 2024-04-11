@@ -1,1 +1,17 @@
-
+{
+  "form_groups": [
+    {
+      "fields": [
+        {
+          "field_type": "TEXT",
+          "placeholder": "numero archivio Diga",
+          "binding_key": "nArcDiga"
+        },
+        {
+          "field_type": "BUTTON"
+        }
+      ]
+    }
+  ],
+  "label_total": "Totale"
+}
