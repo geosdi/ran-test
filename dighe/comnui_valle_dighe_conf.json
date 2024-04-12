@@ -36,6 +36,11 @@
   "filter_config": {
     "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/comuni_valle_dighe_filter_conf.json",
     "refresh": true,
+   "filters_url": [
+      {
+        "value": "nome_diga",
+        "binding_key": "nome Diga"
+      },  
     "filters_type": [
       {
         "filterFunction": "textIncludeSiglevalue",
