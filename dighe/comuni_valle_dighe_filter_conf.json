@@ -5,6 +5,11 @@
         {
           "field_type": "TEXT",
           "placeholder": "nArc Diga",
+          "binding_key": "nArc Diga"
+        },
+         {
+          "field_type": "TEXT",
+          "placeholder": "nArc Diga",
           "binding_key": "nome Diga"
         },
         {
