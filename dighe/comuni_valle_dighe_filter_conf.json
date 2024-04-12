@@ -4,8 +4,8 @@
       "fields": [
         {
           "field_type": "TEXT",
-          "placeholder": "numero archivio Diga",
-          "binding_key": "nArcDiga"
+          "placeholder": "nome Diga",
+          "binding_key": "nome Diga"
         },
         {
           "field_type": "BUTTON"
