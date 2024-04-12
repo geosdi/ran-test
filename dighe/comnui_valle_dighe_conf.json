@@ -34,6 +34,9 @@
   "feature_sidebar": {
     "header": "DIGHE"
   },
+  "feature_table": {
+  "load_on_startup": false,
+  },
   "filter_config": {
     "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/comuni_valle_dighe_filter_conf.json",
     "refresh": true,
