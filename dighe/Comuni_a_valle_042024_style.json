@@ -1,14 +1,14 @@
 {
     "style_properties": [
       {
-        "propertyKey": "PRO_COM",
+        "propertyKey": "idDiga",
         "properties": [
             {
                 "property": "fillColor",
                 "values": [
                   {
                     "key": "*",
-                    "value": "#343434"
+                    "value": "#ffff00"
                   }
                 ]
               },
