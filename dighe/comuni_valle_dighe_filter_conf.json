@@ -4,12 +4,12 @@
       "fields": [
         {
           "field_type": "TEXT",
-          "placeholder": "nArc Diga",
+          "placeholder": "n. archivio Diga",
           "binding_key": "nArc Diga"
         },
          {
           "field_type": "TEXT",
-          "placeholder": "nArc Diga",
+          "placeholder": "nome Diga",
           "binding_key": "nome Diga"
         },
         {
@@ -17,6 +17,6 @@
         }
       ]
     }
-  ],
-  "label_total": "Totale"
+  ]
+  
 }
