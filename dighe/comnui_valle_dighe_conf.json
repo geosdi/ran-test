@@ -38,14 +38,14 @@
     "refresh": true,
     "filters_type": [
       {
-        "filterFunction": "textInclude",
+        "filterFunction": "textIncludeSiglevalue",
         "binding_key": "nome Diga",
-        "operator": "or",
+        "operator": "and",
         "filter_on_fields": [
-          "NOME_DIGA"
+          "nArc"
         ],
         "layers": [
-          1
+          1, 2
         ]
       }    
     ]
