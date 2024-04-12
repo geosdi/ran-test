@@ -31,6 +31,9 @@
     "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/Comuni_a_valle_042024_style.json",
     "https://raw.githubusercontent.com/geosdi/ran-test/main//dighe/anagrafica_dighe_style.json"
   ],
+  "feature_sidebar": {
+    "header": "DIGHE"
+  },
   "filter_config": {
     "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/comuni_valle_dighe_filter_conf.json",
     "refresh": true,
