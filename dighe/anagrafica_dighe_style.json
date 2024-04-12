@@ -8,9 +8,9 @@
           "values": [
             {
               "key": "*",
-              "value": "triangle",
+              "value": "square",
               "options": {
-                "fillColor": "#FFFFFF",
+                "fillColor": "#ffbf00",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.8,
