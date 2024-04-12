@@ -6,7 +6,7 @@
   "layers": [
     {
       "key": 0,    
-      "label": "Anagrafica dighe"
+      "label": "Area IT-Alert"
     },
     {
       "key": 1,
@@ -14,22 +14,22 @@
     },
 	{
       "key": 2,
-      "label": "Area IT-Alert"
+      "label": "Anagrafica dighe"
     }
       ],
 "today": {
     "attachment": [],
     "topo_json": [
-      "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/anagrafica_dighe_04_2024.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/dighe_aree_semplificate_042024.geojson",
       "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/Comuni_a_valle_042024.geojson",
-	  "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/dighe_aree_semplificate_042024.geojson"
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/anagrafica_dighe_04_2024.geojson" 
     ],
     "html_description": ""
   },
   "style": [
-      "https://raw.githubusercontent.com/geosdi/ran-test/main//dighe/anagrafica_dighe_style.json",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/dighe_aree_semplificate_042024_style.json",
       "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/Comuni_a_valle_042024_style.json",
-	  "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/dighe_aree_semplificate_042024_style.json"
+      "https://raw.githubusercontent.com/geosdi/ran-test/main//dighe/anagrafica_dighe_style.json"
 	  
  
   ],
@@ -39,15 +39,26 @@
     "filters_type": [
       {
         "filterFunction": "textIncludeSiglevalue",
-        "binding_key": "nome Diga",
-        "operator": "and",
+        "binding_key": "nArc Diga",
+        "operator": "or",
         "filter_on_fields": [
           "nArc"
         ],
         "layers": [
-          1, 2
+         0, 1, 2
         ]
-      }    
+      },
+     {
+        "filterFunction": "textInclude",
+        "binding_key": "nome Diga",
+        "operator": "or",
+        "filter_on_fields": [
+          "nomeDiga"
+        ],
+        "layers": [
+         0, 1, 2
+        ]
+      }
     ]
   }
 }
