@@ -39,10 +39,10 @@
     "filters_type": [
       {
         "filterFunction": "textInclude",
-        "binding_key": "nArc Diga",
+        "binding_key": "nome Diga",
         "operator": "or",
         "filter_on_fields": [
-          "nArc"
+          "NOME DIGA "
         ],
         "layers": [
           1
