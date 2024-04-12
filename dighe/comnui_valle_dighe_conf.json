@@ -42,7 +42,7 @@
         "binding_key": "nome Diga",
         "operator": "or",
         "filter_on_fields": [
-          "NOME_DIGA "
+          "NOME_DIGA"
         ],
         "layers": [
           1
