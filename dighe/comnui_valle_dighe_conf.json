@@ -40,7 +40,8 @@
       {
         "value": "nome_diga",
         "binding_key": "nome Diga"
-      },  
+      }
+   ],  
     "filters_type": [
       {
         "filterFunction": "textIncludeSiglevalue",
