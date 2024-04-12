@@ -38,7 +38,7 @@
     "refresh": true,
     "filters_type": [
       {
-        "filterFunction": "textIncludeSingleValue",
+        "filterFunction": "textInclude",
         "binding_key": "nArc Diga",
         "operator": "or",
         "filter_on_fields": [
