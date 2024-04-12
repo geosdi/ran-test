@@ -2,67 +2,55 @@
   "global_legend": "",
   "name": "Dighe:comuni a valle",
   "header_popup": "Dighe",
-  "strategy_features": "not_intersect",
+  "strategy_features": "intersect",
   "layers": [
     {
-      "key": 0,    
-      "label": "Area IT-Alert"
+      "key": 0,
+      "label": "Anagrafica dighe"
     },
     {
       "key": 1,
       "label": "Comuni a valle"
     },
-	{
+    {
       "key": 2,
-      "label": "Anagrafica dighe"
+      "label": "Area IT-Alert"
     }
-      ],
-"today": {
+  ],
+  "today": {
     "attachment": [],
     "topo_json": [
-      "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/dighe_aree_semplificate_042024.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/anagrafica_dighe_04_2024.geojson",
       "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/Comuni_a_valle_042024.geojson",
-      "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/anagrafica_dighe_04_2024.geojson" 
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/dighe_aree_semplificate_042024.geojson"
     ],
     "html_description": ""
   },
   "style": [
-      "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/dighe_aree_semplificate_042024_style.json",
-      "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/Comuni_a_valle_042024_style.json",
-      "https://raw.githubusercontent.com/geosdi/ran-test/main//dighe/anagrafica_dighe_style.json"
-	  
- 
+    "https://raw.githubusercontent.com/geosdi/ran-test/main//dighe/anagrafica_dighe_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/Comuni_a_valle_042024_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/dighe_aree_semplificate_042024_style.json"
   ],
+  "feature_sidebar": {
+    "header": "DIGHE"
+  },
   "filter_config": {
     "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/comuni_valle_dighe_filter_conf.json",
+    "excluded_layers": [
+      0
+    ],
     "refresh": true,
-   "filters_url": [
-      {
-        "value": "nome_diga",
-        "binding_key": "nome Diga"
-      }
-   ],  
     "filters_type": [
       {
         "filterFunction": "textIncludeSiglevalue",
-        "binding_key": "nArc Diga",
-        "operator": "or",
+        "binding_key": "nome Diga",
+        "operator": "and",
         "filter_on_fields": [
           "nArc"
         ],
         "layers": [
-         0, 1, 2
-        ]
-      },
-     {
-        "filterFunction": "textInclude",
-        "binding_key": "nome Diga",
-        "operator": "or",
-        "filter_on_fields": [
-          "nomeDiga"
-        ],
-        "layers": [
-         0, 1, 2
+          1,
+          2
         ]
       }
     ]
