@@ -40,6 +40,9 @@
   "filter_config": {
     "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/comuni_valle_dighe_filter_conf.json",
     "refresh": true,
+     "excluded_layers": [
+      0,1
+    ],
    "filters_url": [
       {
         "value": "nome_diga",
@@ -49,10 +52,10 @@
     "filters_type": [
       {
         "filterFunction": "textIncludeSiglevalue",
-        "binding_key": "nArc Diga",
+        "binding_key": "idDiga",
         "operator": "or",
         "filter_on_fields": [
-          "nArc"
+          "idDiga"
         ],
         "layers": [
          0, 1, 2
