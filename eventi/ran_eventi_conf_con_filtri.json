@@ -26,6 +26,12 @@
     "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_peric_sism_style.json",
     "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi/ran_eventi_style.json"
   ],
+    "feature_sidebar": {
+    "header": "Eventi RAN"
+  },
+  "feature_table": {
+  "load_on_startup": false
+  },
   "filter_config": {
     "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi/ran_eventi_filter_conf.json",
     "refresh": true,
