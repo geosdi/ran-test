@@ -33,6 +33,12 @@
     "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_peric_sism_style.json",
     "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/oss_anagrafica_stazioni_icone_style.json"
   ],
+    "feature_sidebar": {
+    "header": "Stazioni OSS"
+  },
+  "feature_table": {
+  "load_on_startup": false
+  },
   "filter_config": {
     "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_filter_conf.json",
     "refresh": true,
