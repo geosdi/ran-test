@@ -35,23 +35,6 @@
         "binding_key": "time"
       }
     ],
-   "filters_button": [
-      {
-        "label": "Ultimi 7gg",
-        "binding_key": "time",
-        "value": "7/now"
-      },
-      {
-        "label": "Ultimi 30gg",
-        "binding_key": "time",
-        "value": "30/now"
-      },
-      {
-        "label": "Ultimo anno",
-        "binding_key": "time",
-        "value": "365/now"
-      }
-], 
   "filters_type": [
        {
         "filter_function": "rangeDate",
