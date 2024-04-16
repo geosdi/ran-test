@@ -36,9 +36,6 @@
   "filter_config": {
     "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_filter_conf.json",
     "refresh": true,
-     "excluded_layers": [
-      0
-    ],
     "filters_type": [
       {
         "filterFunction": "textInclude",
