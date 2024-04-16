@@ -36,9 +36,6 @@
     "feature_sidebar": {
     "header": "Stazioni OSS"
   },
-  "feature_table": {
-  "load_on_startup": false
-  },
   "filter_config": {
     "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/oss/anagrafica_oss_filter_conf.json",
     "refresh": true,
