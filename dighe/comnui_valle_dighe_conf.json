@@ -52,7 +52,7 @@
    ],  
     "filters_type": [
       {
-        "filterFunction": "textIncludeSiglevalue",
+        "filter_Function": "textIncludeSiglevalue",
         "binding_key": "idDiga",
         "operator": "or",
         "filter_on_fields": [
@@ -63,7 +63,7 @@
         ]
       },
      {
-        "filterFunction": "textInclude",
+        "filter_Function": "textInclude",
         "binding_key": "nome Diga",
         "operator": "or",
         "filter_on_fields": [
