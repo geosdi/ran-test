@@ -52,7 +52,7 @@
    ],  
     "filters_type": [
       {
-        "filter_function": "textIncludeSiglevalue",
+        "filter_function": "exactValue",
         "binding_key": "idDiga",
         "operator": "or",
         "filter_on_fields": [
