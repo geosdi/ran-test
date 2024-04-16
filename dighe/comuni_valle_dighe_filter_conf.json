@@ -4,8 +4,8 @@
       "fields": [
         {
           "field_type": "TEXT",
-          "placeholder": "n. archivio Diga",
-          "binding_key": "nArc Diga"
+          "placeholder": "idDiga (nArc+sub)",
+          "binding_key": "idDiga"
         },
          {
           "field_type": "TEXT",
