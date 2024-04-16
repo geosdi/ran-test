@@ -47,6 +47,10 @@
       {
         "value": "nome_diga",
         "binding_key": "nome Diga"
+      },
+     {
+        "value": "id_diga",
+        "binding_key": "idDiga"
       }
    ],  
     "filters_type": [
