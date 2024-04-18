@@ -1,0 +1,79 @@
+
+{
+  "global_legend": "",
+  "name": "Dighe:comuni a valle",
+  "header_popup": "Dighe",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Area IT-Alert"
+    },
+    {
+      "key": 1,
+      "label": "Comuni a valle"
+    },
+    {
+      "key": 2,
+      "label": "Anagrafica dighe"
+    }
+  ],
+  "today": {
+    "attachment": [],
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/dighe_aree_semplificate_042024.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/Comuni_a_valle_042024.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/anagrafica_dighe_04_2024.geojson"
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/dighe_aree_semplificate_042024_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/Comuni_a_valle_042024_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main//dighe/anagrafica_dighe_style.json"
+  ],
+  "feature_sidebar": {
+    "header": "DIGHE"
+  },
+  "feature_table": {
+  "load_on_startup": false
+  },
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/comuni_valle_dighe_filter_url_conf.json",
+    "refresh": true,
+   "filters_url": [
+      {
+        "value": "nome_diga",
+        "binding_key": "nome Diga"
+      },
+     {
+        "value": "id_diga",
+        "binding_key": "idDiga"
+      }
+   ],  
+    "filters_type": [
+      {
+        "filter_function": "exactValue",
+        "binding_key": "idDiga",
+        "operator": "or",
+        "filter_on_fields": [
+          "idDiga"
+        ],
+        "layers": [
+         0, 1, 2
+        ]
+      },
+     {
+        "filter_function": "textInclude",
+        "binding_key": "nome Diga",
+        "operator": "or",
+        "filter_on_fields": [
+          "nomeDiga"
+        ],
+        "layers": [
+         0, 1, 2
+        ]
+      }
+    ]
+  }
+}
