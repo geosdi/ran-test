@@ -6,14 +6,6 @@
     {
       "key": 0,    
       "label": "budibase"
-    },
-    {
-      "key": 1,
-      "label": "zone piano naz"
-    },
-    {
-      "key": 2,
-      "label": "Centri coord"
     }
   ],
   "today": {
@@ -31,16 +23,11 @@
             }
           }
         }
-    },
-	  "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campi_flegrei_line.geojson",
-	  "https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/CF_centri_coordinamento.geojson"  
+    }
     ]
   },
   "style": [
-    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert_style.geojson",
-	"https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campiflegrei_style.json",
-	"https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/centri_coocrd_style.json"
-	
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/it-alert/report-collector/it-alert_style.geojson"	
   ],
   "feature_properties": [
     [
