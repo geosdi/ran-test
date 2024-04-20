@@ -1,1 +1,46 @@
 
+    "style_properties": [
+    {
+		"propertyKey": "nome_categoria",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [
+				    {
+						"key": "Interruzione servizi essenziali",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/dicomac.png)"
+					},
+				    {
+						"key": "Assistenza alla popolazione",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/sor.png)"
+					},
+					{
+						"key": "Censimento danni",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/ccs.png)"
+					},
+					{
+						"key": "Verifica speditiva edifici",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+					},
+					{
+						"key": "Allestimento strutture accoglienza",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+					},
+					{
+						"key": "Evacuazione edifici pubblici",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+					},
+					{
+						"key": "Criticità alla viabilità",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+					},
+					{
+						"key": "Evento sismico",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+					}
+				]
+			}
+		]
+	}
+    ]
+  }
