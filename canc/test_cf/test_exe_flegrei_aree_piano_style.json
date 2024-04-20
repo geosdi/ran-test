@@ -1,0 +1,77 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "Area_di_attesa",
+      "properties": [
+        {
+          "property": "divIcon",
+          "values": [
+            {
+              "key": "*",
+              "value": "<div style='background-color:#749cd8; opacity: 0.8; width:80%; height:80%; outline: solid black; outline-width: 1px;'></div>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "propertyKey": "Mezzo_di_trasporto",
+      "properties": [
+        {
+          "property": "radius",
+          "values": [
+            {
+              "key": "*",
+              "value": "6"
+            }
+          ]
+        },
+        {
+          "property": "fillColor",
+          "values": [
+            {
+              "key": "*",
+              "value": "#688a50"
+            }
+          ]
+        },
+        {
+          "property": "color",
+          "values": [
+            {
+              "key": "*",
+              "value": "#000"
+            }
+          ]
+        },
+        {
+          "property": "weight",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "opacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
