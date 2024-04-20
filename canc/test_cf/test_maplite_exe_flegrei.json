@@ -25,7 +25,7 @@
     ]
   },
   "style": [
-	"https://github.com/pcm-dpc/DPC-Mappe/blob/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campiflegrei_style.json",
+	"https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/storytelling_campi_flegrei/caratteristiche/zone_campiflegrei_style.json",
 	"https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/campi_flegrei_style.json",
 	"https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/centri_coocrd_style.json"
 	
