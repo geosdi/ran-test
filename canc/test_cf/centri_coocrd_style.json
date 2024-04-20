@@ -1,0 +1,30 @@
+{
+    "style_properties": [
+    {
+		"propertyKey": "tipo",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [
+				    {
+						"key": "DICOMAC",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/dicomac.png)"
+					},
+				    {
+						"key": "SORU",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/sor.png)"
+					},
+					{
+						"key": "CCS",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/ccs.png)"
+					},
+					{
+						"key": "COC",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/canc/test_cf/coc.png)"
+					}
+				]
+			}
+		]
+	}
+    ]
+  }
