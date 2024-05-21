@@ -1,6 +1,6 @@
 {
   "global_legend": "",
-  "name": "Eventi sismici Campi Flegrei",
+  "name": "Eventi sismici ultimi 30 giorni",
   "header_popup": " ",
   "strategy_features": "not_intersect",
   "layers": [
