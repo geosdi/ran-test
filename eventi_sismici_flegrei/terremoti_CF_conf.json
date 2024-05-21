@@ -1,0 +1,80 @@
+{
+  "global_legend": "",
+  "name": "Eventi sismici Campi Flegrei",
+  "header_popup": " ",
+  "strategy_features": "not_intersect",
+  "layers": [
+    
+    {
+      "key": 0,    
+      "label": "Eventi ultimi 30 gg"
+    }
+      ],
+  "today": {
+
+    "topo_json": [
+      "https://servizi.protezionecivile.it/geoserver/INGV_terremoti/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=INGV_terremoti:ov_flegrei_eventi_30_day&maxFeatures=5000&outputFormat=application%2Fjson"
+     ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi_sismici_flegrei/terremoti_CF_style.json"
+  ],
+    "feature_sidebar": {
+    "header": "Eventi OV"
+  },
+  "feature_table": {
+  "load_on_startup": false
+  },
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi_sismici_flegrei/terremoti_CF_filter_conf.json",
+    "refresh": true,
+  "filters_url": [
+      {
+        "value": "data",
+        "binding_key": "time"
+      }
+    ],
+       "filters_button": [
+      {
+        "label": "Ultimo giorno",
+        "binding_key": "time",
+        "value": "1/now"
+      },
+      {
+        "label": "Ultimi 7gg",
+        "binding_key": "time",
+        "value": "7/now"
+      },
+      {
+        "label": "Ultimi 30gg",
+        "binding_key": "time",
+        "value": "30/now"
+      }
+],
+  "filters_type": [
+       {
+        "filter_function": "rangeDate",
+        "operator": "and",
+        "binding_key": "time",
+        "filter_on_fields": [
+          "data_ora_utc"
+        ],
+        "layers": [
+          0
+        ]
+      },
+      {
+        "operator": "and",
+        "filter_function": "equalOrSup",
+        "binding_key": "magnitudo",
+        "filter_on_fields": [
+          "magnitudo"
+        ],
+        "layers": [
+          0
+        ]
+      }
+    ]
+  }
+}
