@@ -13,7 +13,7 @@
   "today": {
 
     "topo_json": [
-      "http://150.145.141.13/geoserver/donato/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=donato%3Aov_flegrei&maxFeatures=500&outputFormat=application%2Fjson"
+      "https://servizi.protezionecivile.it/geoserver/INGV_terremoti/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=INGV_terremoti:ov_flegrei_eventi_1_day&maxFeatures=5000&outputFormat=application%2Fjson"
      ],
     "html_description": ""
   },
