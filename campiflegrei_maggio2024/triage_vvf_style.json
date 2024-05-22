@@ -38,7 +38,7 @@
               ],
               "value": "circle",
               "options": {
-                "fillColor": #c3d400,
+                "fillColor": "#c3d400",
                 "color": "#000000",
                 "weight": 1,
                 "fillOpacity": 0.7,
