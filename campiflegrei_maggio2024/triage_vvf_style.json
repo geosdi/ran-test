@@ -1,0 +1,54 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "giudizio_complessivo_esteso",
+      "properties": [
+        {
+          "property": "shape",
+          "values": [
+            {
+              "key": [
+                "CON CRITICITÀ GRAVI NON EVITABILI"
+              ],
+              "value": "circle",
+              "options": {
+                "fillColor": "#ff0004",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.7,
+                "radius": 3
+              }
+            },
+            {
+              "key": [
+                "CON CRITICITÀ LIEVI O EVITABILI"
+              ],
+              "value": "circle",
+              "options": {
+                "fillColor": "#ff8c00",
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.7,
+                "radius": 5
+              }
+            },
+            {
+              "key": [
+                "SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)"
+              ],
+              "value": "circle",
+              "options": {
+                "fillColor": #c3d400,
+                "color": "#000000",
+                "weight": 1,
+                "fillOpacity": 0.7,
+                "radius": 7
+              }
+            }
+            }          
+          ]
+        }
+      ]
+    }
+  ]
+}
