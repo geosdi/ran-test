@@ -29,6 +29,11 @@
   "filter_config": {
     "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi_sismici_flegrei/terremoti_CF_filter_conf.json",
     "refresh": true,
+    "fixed_filters": [
+      {
+        "value": null,
+        "binding_key": "lat"
+      }
   "filters_url": [
       {
         "value": "data",
