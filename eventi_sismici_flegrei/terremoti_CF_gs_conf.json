@@ -31,9 +31,10 @@
     "refresh": true,
     "fixed_filters": [
       {
-        "value": "",
+        "value": null,
         "binding_key": "lat"
       }
+    ],
   "filters_url": [
       {
         "value": "data",
