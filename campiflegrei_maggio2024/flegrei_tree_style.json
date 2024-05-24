@@ -46,8 +46,8 @@
         {
           "selectable": false,
           "color": "#ee00e6",
-          "type": "circle",
-          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; opacity:0.7"
+          "type": "icon",
+          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/oss/staz_oss.svg'); width:80px;"
         }
       ]
     },
