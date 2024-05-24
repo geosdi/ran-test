@@ -70,10 +70,10 @@
     },
     {
       "key": "4",
-      "layerKey":"4",
-      "label": "Triage VVF CON CRITICITÀ GRAVI NON EVITABILI",
+      
+      "label": "Triage VVF ",
       "filterKey": "giudizio_complessivo_esteso",
-      "filterValue": "CON CRITICITÀ GRAVI NON EVITABILI",
+      "filterValue": "*",
       "expanded": true,
       "visible": true,
       "type": "default",
@@ -81,64 +81,26 @@
         {
           "selectable": false,
           "color": "#ff0004",
+          "description": "CON CRITICITÀ GRAVI NON EVITABILI",
           "type": "icon",
           "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
-        }
-      ]
-    },
-    {
-      "key": "5",
-      "layerKey":"4",
-      "label": "Triage VVF CON CRITICITÀ LIEVI O EVITABILI",
-      "filterKey": "giudizio_complessivo_esteso",
-      "filterValue": "CON CRITICITÀ LIEVI O EVITABILI",
-      "expanded": true,
-      "visible": true,
-      "type": "default",
-      "children": [
+        },
         {
           "selectable": false,
           "color": "#ff8c00",
+          "description": "CON CRITICITÀ LIEVI O EVITABILI",
           "type": "icon",
           "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
-        }
-      ]
-    },
-    {
-      "key": "6",
-      "layerKey":"4",
-      "label": "Triage VVF SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)",
-      "filterKey": "giudizio_complessivo_esteso",
-      "filterValue": "SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)",
-      "expanded": true,
-      "visible": true,
-      "type": "default",
-      "children": [
+        },
         {
           "selectable": false,
           "color": "#c3d400",
-          "type": "icon",
-          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
-        }
-      ]
-    },
-    {
-      "key": "7",
-      "layerKey":"4",
-      "label": "Triage VVF NON POTUTO ACCERTARE DA RIVEDERE",
-      "filterKey": "giudizio_complessivo_esteso",
-      "filterValue": "NON POTUTO ACCERTARE DA RIVEDERE",
-      "expanded": true,
-      "visible": true,
-      "type": "default",
-      "children": [
-        {
-          "selectable": false,
-          "color": "#0d57d7",
+          "description": "SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)",
           "type": "icon",
           "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
         }
       ]
     }
+    
   ]
 }
