@@ -36,9 +36,9 @@
     },
     {
       "key": "2",
-      "label": "Zona int. ristretta",
-      "filterKey": "Zona",
-      "filterValue": "Zona di intervento ristretta",
+      "label": "Sciame sismico 30gg",
+      "filterKey": "magnitudo",
+      "filterValue": "*",
       "expanded": true,
       "visible": true,
       "type": "default",
