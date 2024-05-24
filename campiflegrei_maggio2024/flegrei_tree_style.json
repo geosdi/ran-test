@@ -86,7 +86,7 @@
       ]
     },
     {
-      "key": "5",
+      "key": "4",
       "label": "Triage VVF CON CRITICITÀ LIEVI O EVITABILI",
       "filterKey": "giudizio_complessivo_esteso",
       "filterValue": "CON CRITICITÀ LIEVI O EVITABILI",
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "key": "6",
+      "key": "4",
       "label": "Triage VVF SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)I",
       "filterKey": "giudizio_complessivo_esteso",
       "filterValue": "SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)",
