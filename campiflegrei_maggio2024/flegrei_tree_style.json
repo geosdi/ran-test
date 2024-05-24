@@ -33,6 +33,23 @@
           "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
         }
       ]
+    },
+    {
+      "key": "2",
+      "label": "Zona int. ristretta",
+      "filterKey": "Zona",
+      "filterValue": "Zona di intervento ristretta",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#ee00e6",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        }
+      ]
     }
   ]
 }
