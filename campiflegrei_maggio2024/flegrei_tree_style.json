@@ -106,7 +106,7 @@
     {
       "key": "6",
       "layerKey":"4",
-      "label": "Triage VVF SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)I",
+      "label": "Triage VVF SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)",
       "filterKey": "giudizio_complessivo_esteso",
       "filterValue": "SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)",
       "expanded": true,
@@ -124,7 +124,7 @@
     {
       "key": "7",
       "layerKey":"4",
-      "label": "Triage VVF SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)I",
+      "label": "Triage VVF NON POTUTO ACCERTARE DA RIVEDERE",
       "filterKey": "giudizio_complessivo_esteso",
       "filterValue": "NON POTUTO ACCERTARE DA RIVEDERE",
       "expanded": true,
