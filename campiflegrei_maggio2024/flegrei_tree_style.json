@@ -70,6 +70,7 @@
     },
     {
       "key": "4",
+      "layerKey":"4",
       "label": "Triage VVF CON CRITICITÀ GRAVI NON EVITABILI",
       "filterKey": "giudizio_complessivo_esteso",
       "filterValue": "CON CRITICITÀ GRAVI NON EVITABILI",
