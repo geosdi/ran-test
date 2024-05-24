@@ -40,7 +40,7 @@
       "filterKey": "magnitudo",
       "filterValue": "*",
       "expanded": true,
-      "visible": false,
+      "visible": true,
       "type": "default",
       "children": [
         {
