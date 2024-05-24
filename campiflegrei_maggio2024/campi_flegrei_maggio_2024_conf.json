@@ -15,7 +15,8 @@
     },
     {
       "key": 2,
-      "label": "Sciame sismico 30gg"
+      "label": "Sciame sismico 30gg",
+      "visible": false
     },
     {
       "key": 3,
