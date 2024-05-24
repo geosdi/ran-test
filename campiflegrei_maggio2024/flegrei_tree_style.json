@@ -50,6 +50,74 @@
           "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
         }
       ]
+    },
+    {
+      "key": "3",
+      "label": "Richieste sopralluoghi",
+      "filterKey": "Comune",
+      "filterValue": "*",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#ee00e6",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        }
+      ]
+    },
+    {
+      "key": "4",
+      "label": "Triage VVF CON CRITICITÀ GRAVI NON EVITABILI",
+      "filterKey": "giudizio_complessivo_esteso",
+      "filterValue": "CON CRITICITÀ GRAVI NON EVITABILI",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#ff0004",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        }
+      ]
+    },
+    {
+      "key": "5",
+      "label": "Triage VVF CON CRITICITÀ LIEVI O EVITABILI",
+      "filterKey": "giudizio_complessivo_esteso",
+      "filterValue": "CON CRITICITÀ LIEVI O EVITABILI",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#ff8c00",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        }
+      ]
+    },
+    {
+      "key": "6",
+      "label": "Triage VVF SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)I",
+      "filterKey": "giudizio_complessivo_esteso",
+      "filterValue": "SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#ff8c00",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        }
+      ]
     }
   ]
 }
