@@ -13,7 +13,7 @@
   "today": {
 
     "topo_json": [
-      "https://servizi.protezionecivile.it/geoserver/INGV_terremoti/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=INGV_terremoti:ov_flegrei_eventi_30_day&maxFeatures=5000&outputFormat=application%2Fjson"
+      "https://exe-dello-stretto2022.geosdi.org/geoserver/flegrei/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=flegrei%3Aov_flegrei_eventi_30_day&maxFeatures=5000&outputFormat=application%2Fjson"
      ],
     "html_description": ""
   },
