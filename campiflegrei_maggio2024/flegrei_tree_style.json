@@ -113,7 +113,7 @@
       "children": [
         {
           "selectable": false,
-          "color": "#ff8c00",
+          "color": "#c3d400",
           "type": "icon",
           "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
         }
