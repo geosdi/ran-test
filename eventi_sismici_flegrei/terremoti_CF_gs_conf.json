@@ -20,19 +20,7 @@
   "style": [
     "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi_sismici_flegrei/terremoti_CF_style.json"
   ],
-  "leaflet": {
-    "tooltip": [
-    {
-      "key": 1,
-      "properties": [
-       {
-          "key": "magnitudo",,
-          "label": "Magnitudo"
-        }
-       ]
-    }
-   ]
-  },
+
     "feature_sidebar": {
     "header": "Eventi OV"
   },
