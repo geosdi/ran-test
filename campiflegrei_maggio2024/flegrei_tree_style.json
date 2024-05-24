@@ -120,6 +120,24 @@
           "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
         }
       ]
+    },
+    {
+      "key": "6",
+      "layerKey":"4",
+      "label": "Triage VVF SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)I",
+      "filterKey": "giudizio_complessivo_esteso",
+      "filterValue": "NON POTUTO ACCERTARE DA RIVEDERE",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#ff8c000",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid"
+        }
+      ]
     }
   ]
 }
