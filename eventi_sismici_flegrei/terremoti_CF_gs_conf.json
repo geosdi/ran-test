@@ -23,7 +23,7 @@
    "leaflet": {
     "tooltip": [
     {
-      "key": 1,
+      "key": 0,
       "properties": [
        {
           "key": "magnitudo",
