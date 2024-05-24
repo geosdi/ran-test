@@ -27,7 +27,11 @@
       "properties": [
        {
           "key": "magnitudo",
-          "label": "Magnitudo"
+          "label": "Mag"
+        },
+         {
+          "key": "profondita_km",
+          "label": "Deph km"
         }
        ]
     }
