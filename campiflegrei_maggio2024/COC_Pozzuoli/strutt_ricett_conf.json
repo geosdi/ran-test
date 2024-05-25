@@ -1,1 +1,37 @@
-
+{
+  "global_legend": "",
+  "name": " ",
+  "header_popup": " ",
+  "image_url": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/logo_regione_campania.png",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,    
+      "label": "Zona intervento"
+    },
+    {
+      "key": 1,
+      "label": "Zona interv ristretta"
+    },
+    {
+      "key": 2,
+      "label": "Strutture ricettive",
+      "visible": true
+    }    
+  ],
+"today": {
+    "topo_json": [
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_dati_z_interv_comuni.geojson",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_dati_z_interv_ristr_comuni.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/COC_Pozzuoli/pozzuolistrutturericettive2024.json"
+      
+      ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_style.json",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/strutt_ricett_style.json"
+  ] ,
+   "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/str_ricett_tree_style.json"
+}
