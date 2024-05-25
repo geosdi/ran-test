@@ -1,14 +1,14 @@
 {
   "style_properties": [
     {
-      "propertyKey": "giudizio_complessivo_esteso",
+      "propertyKey": "giudizio_complessivo",
       "properties": [
         {
           "property": "shape",
           "values": [
             {
               "key": [
-                "CON CRITICITÀ GRAVI NON EVITABILI"
+                "R"
               ],
               "value": "circle",
               "options": {
@@ -21,7 +21,7 @@
             },
             {
               "key": [
-                "CON CRITICITÀ LIEVI O EVITABILI"
+                "G"
               ],
               "value": "circle",
               "options": {
@@ -34,7 +34,7 @@
             },
             {
               "key": [
-                "SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)"
+                "VI"
               ],
               "value": "circle",
               "options": {
@@ -47,7 +47,7 @@
             },
             {
               "key": [
-                "NON POTUTO ACCERTARE DA RIVEDERE"
+                "B"
               ],
               "value": "circle",
               "options": {
