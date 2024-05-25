@@ -97,7 +97,7 @@
           "color": "#c3d400",
           "description": "Senza criticità apparenti",
           "type": "icon",
-          "css_style": "height: 15px;width: 15px; opacity:0.7"
+          "css_style": "height: 15px;width: 15px; display: inline-block; opacity:0.7"
         }
       ]
     }
