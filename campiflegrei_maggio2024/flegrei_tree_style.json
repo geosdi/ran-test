@@ -101,7 +101,7 @@
         },
         {
           "selectable": false,
-          "color": "#c3d400",
+          "color": "#c0c0c0",
           "description": "Da rivedere",
           "type": "icon",
           "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; opacity:0.7"
