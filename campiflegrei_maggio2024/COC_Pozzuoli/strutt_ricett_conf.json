@@ -31,7 +31,7 @@
   "style": [
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_style.json",
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_style.json",
-    "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/strutt_ricett_style.json"
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024//COC_Pozzuoli/strutt_ricett_style.json"
   ] ,
-   "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/str_ricett_tree_style.json"
+   "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024//COC_Pozzuoli/str_ricett_tree_style.json"
 }
