@@ -1,1 +1,55 @@
-
+{
+  "nodes": [
+    {
+      "key": "0",
+      "label": "Zona intervento",
+      "filterKey": "Zona",
+      "filterValue": "Zona di intervento",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#02c1f6",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; opacity:0.7"
+        }
+      ]
+    },
+    {
+      "key": "1",
+      "label": "Zona int. ristretta",
+      "filterKey": "Zona",
+      "filterValue": "Zona di intervento ristretta",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#e85dff",
+          "type": "icon",
+          "css_style": "height: 15px;width: 15px;display: inline-block; border: 1px solid; opacity:0.7"
+        }
+      ]
+    },
+    {
+      "key": "3",
+      "label": "Strutture ricettive",
+      "filterKey": "Comune",
+      "filterValue": "*",
+      "expanded": true,
+      "visible": true,
+      "type": "default",
+      "children": [
+        {
+          "selectable": false,
+          "color": "#0d57d7",
+          "type": "icon",
+          "css_style": "content: url('https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/esercitazioni/exe_bradisismo_flegrei2024/icone/cat_censimento_danni.png'); width:15px; height:15px;"
+        }
+      ]
+    }   
+  ]
+}
