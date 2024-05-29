@@ -18,6 +18,10 @@
               "key": "SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)",
               "value": "#c3d400"
             },
+		  {
+              "key": "SENZA CRITICITÀ APPARENTI DALL'ESTERNO (ispezionato solo dall'esterno)",
+              "value": "#c3d400"
+            },
 			{
               "key": "NON POTUTO ACCERTARE DA RIVEDERE",
               "value": "#808080"
