@@ -75,6 +75,13 @@
 						"options": {
                                                              "iconSize": [12, 12]
                                                            }
+					},
+					{
+						"key": "nd",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_nd.png)",
+						"options": {
+                                                             "iconSize": [12, 12]
+                                                           }
 					}
 				]
 			}
