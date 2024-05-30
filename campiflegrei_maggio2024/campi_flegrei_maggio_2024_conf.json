@@ -19,7 +19,8 @@
     },
     {
       "key": 3,
-      "label": "Richieste sopralluoghi"
+      "label": "Richieste sopralluoghi",
+      "visible": false
     },
      {
       "key": 4,
