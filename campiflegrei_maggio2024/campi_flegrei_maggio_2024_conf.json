@@ -25,7 +25,11 @@
      {
       "key": 4,
       "label": "Triage VVF"
-    }    
+    },
+    {
+      "key": 5,
+      "label": "Esiti AGITEC"
+    }
   ],
 "today": {
     "topo_json": [
@@ -33,17 +37,19 @@
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_dati_z_interv_ristr_comuni.geojson",
       "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi_sismici_flegrei/terremoti_ov_ultimo_mese.geojson",
       "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/SegnalazioniCOCPozzuoli.json",
-      "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/TRIAGE_VVF_CF.geojson"
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/TRIAGE_VVF_CF.geojson",
+	  "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec.geojson"
       
       ],
     "html_description": ""
   },
   "style": [
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_style.json",
-      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_style.json",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_style.json",
     "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi_sismici_flegrei/terremoti_CF_style.json",
     "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/segnalazioni_style.json",
-    "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/triage_vvf_style.json"  
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/triage_vvf_style.json",
+	"https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_point_style.json"
   ] ,
    "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/flegrei_tree_style.json"
 }
