@@ -120,61 +120,61 @@
       "children": [
         {
           "selectable": false,
-          "description": "A",
+          "description": "A (agibile)",
           "type": "icon",
           "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_a.png'); width:15px; height:15px;"
         },
         {
           "selectable": false,
-          "description": "B",
+          "description": "B (temp. inag., ma agib. con provvedimenti di P.I.)",
           "type": "icon",
           "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_b.png'); width:15px; height:15px;"
         },
         {
           "selectable": false,
-          "description": "C",
+          "description": "C (parzialmente inagibile)",
           "type": "icon",
           "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_c.png'); width:15px; height:15px;"
         },
 		 {
           "selectable": false,
-          "description": "D",
+          "description": "D (temp. inag., da rived. con approf.)",
           "type": "icon",
           "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_d.png'); width:15px; height:15px;"
         },
         {
           "selectable": false,
-          "description": "E",
+          "description": "E (inagibile)",
           "type": "icon",
           "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_e.png'); width:15px; height:15px;"
         },
 		{
           "selectable": false,
-          "description": "A-F",
+          "description": "A-F (esito A + inag. per rischio esterno)",
           "type": "icon",
           "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_a-f.png'); width:15px; height:15px;"
         },
 		{
           "selectable": false,
-          "description": "B-F",
+          "description": "B-F (esito B + inag. per rischio esterno)",
           "type": "icon",
           "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_b-f.png'); width:15px; height:15px;"
         },
 		{
           "selectable": false,
-          "description": "C-F",
+          "description": "C-F (esito C + inag. per rischio esterno)",
           "type": "icon",
           "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_c-f.png'); width:15px; height:15px;"
         },
 		{
           "selectable": false,
-          "description": "D-F",
+          "description": "D-F (esito D + inag. per rischio esterno)",
           "type": "icon",
           "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_d-f.png'); width:15px; height:15px;"
         },
 		{
           "selectable": false,
-          "description": "E-F",
+          "description": "E-F (esito E + inag. per rischio esterno)",
           "type": "icon",
           "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_e-f.png'); width:15px; height:15px;"
         },
