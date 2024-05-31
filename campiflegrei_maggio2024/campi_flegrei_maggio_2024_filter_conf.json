@@ -1,0 +1,86 @@
+{
+  "form_groups": [
+    {
+      "fields": [
+        {
+          "field_type": "DROPDOWN",
+          "placeholder": "Esiti rilievi VVF",
+          "show_clear": true,
+          "options": [
+            {
+              "name": "Criticità gravi non evitabili",
+              "value": "CON CRITICITÀ GRAVI NON EVITABILI"
+            },
+            {
+              "name": "Criticità lievi o evitabili",
+              "value": "CON CRITICITÀ LIEVI O EVITABILI"
+            },
+            {
+              "name": "Senza criticità apparenti",
+              "value": [
+			  "SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)",
+			  "SENZA CRITICITÀ APPARENTI DALL'ESTERNO (ispezionato solo dall'esterno)"
+			  ]
+            },
+            {
+              "name": "Da rivedere",
+              "value": "NON POTUTO ACCERTARE DA RIVEDERE"
+            }
+          ],
+          "binding_key": "giudizio_complessivo_VVF"
+        },
+        {
+          "field_type": "DROPDOWN",
+          "placeholder": "Esiti rilievi AGITEC",
+          "options": [
+            {
+              "name": "A",
+              "value": "A"
+            },
+            {
+              "name": "B",
+              "value": "B"
+            },
+            {
+              "name": "C",
+              "value": "C"
+            },
+            {
+              "name": "D",
+              "value": "D"
+            },
+            {
+              "name": "E",
+              "value": "E"
+            },
+            {
+              "name": "A-F",
+              "value": "A - F"
+            },
+            {
+              "name": "B-F",
+              "value": "B - F"
+            },
+            {
+              "name": "C-F",
+              "value": "C - F"
+            },
+            {
+              "name": "D-F",
+              "value": "D - F"
+            },
+            {
+              "name": "E-F",
+              "value": "E - F"
+            }
+          ],
+          "binding_key": "esito_AGITEC"
+        },
+        {
+          "field_type": "BUTTON"
+        }
+      ]
+    }
+  ],
+  "label_total": "Totale"
+}
