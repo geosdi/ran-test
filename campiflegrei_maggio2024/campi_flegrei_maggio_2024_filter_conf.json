@@ -16,11 +16,8 @@
               "value": "CON CRITICITÀ LIEVI O EVITABILI"
             },
             {
-              "name": "Senza criticità apparenti",
-              "value": [
-			  "SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)",
-			  "SENZA CRITICITÀ APPARENTI DALL'ESTERNO (ispezionato solo dall'esterno)"
-			  ]
+              "name": "Senza criticità apparenti ",
+              "value":"SENZA"
             },
             {
               "name": "Da rivedere",
@@ -34,44 +31,28 @@
           "placeholder": "Esiti rilievi AGITEC",
           "options": [
             {
-              "name": "A",
+              "name": "A (agibile)",
               "value": "A"
             },
             {
-              "name": "B",
+              "name": "B (temp. inag. ma agibile con provved. di P.I.)",
               "value": "B"
             },
             {
-              "name": "C",
+              "name": "C (parzialmente inagibile)",
               "value": "C"
             },
             {
-              "name": "D",
+              "name": "D (temp. inag. da rivedere con approfondimento)",
               "value": "D"
             },
             {
-              "name": "E",
+              "name": "E (inagibile)",
               "value": "E"
             },
             {
-              "name": "A-F",
-              "value": "A - F"
-            },
-            {
-              "name": "B-F",
-              "value": "B - F"
-            },
-            {
-              "name": "C-F",
-              "value": "C - F"
-            },
-            {
-              "name": "D-F",
-              "value": "D - F"
-            },
-            {
-              "name": "E-F",
-              "value": "E - F"
+              "name": "F (inagibile per rischio esterno)",
+              "value": "F"
             }
           ],
           "binding_key": "esito_AGITEC"
@@ -81,6 +62,5 @@
         }
       ]
     }
-  ],
-  "label_total": "Totale"
+  ]
 }
