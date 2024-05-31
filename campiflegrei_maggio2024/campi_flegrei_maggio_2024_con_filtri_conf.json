@@ -44,7 +44,7 @@
     "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/triage_vvf_style.json",
 	"https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_point_style.json"
   ] ,
-   "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/flegrei_tree_style.json",
+   "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/flegrei_tree_style1.json",
    "feature_sidebar": {
     "header": " "
   },
