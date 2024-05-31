@@ -8,16 +8,16 @@
           "show_clear": true,
           "options": [
             {
-              "name": "Criticità gravi non evitabili",
-              "value": "CON CRITICITÀ GRAVI NON EVITABILI"
+              "name": "Senza criticità apparenti ",
+              "value":"SENZA"
             },
             {
               "name": "Criticità lievi o evitabili",
               "value": "CON CRITICITÀ LIEVI O EVITABILI"
             },
             {
-              "name": "Senza criticità apparenti ",
-              "value":"SENZA"
+              "name": "Criticità gravi non evitabili",
+              "value": "CON CRITICITÀ GRAVI NON EVITABILI"
             },
             {
               "name": "Da rivedere",
