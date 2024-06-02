@@ -3,7 +3,7 @@
     {
       "fields": [
         {
-          "field_type": "MULTISELECT",
+          "field_type": "DROPDOWN",
           "placeholder": "Esiti rilievi VVF",
           "show_clear": true,
           "options": [
@@ -27,7 +27,7 @@
           "binding_key": "giudizio_complessivo_VVF"
         },
         {
-          "field_type": "MULTISELECT",
+          "field_type": "DROPDOWN",
           "placeholder": "Esiti rilievi AGITEC",
           "options": [
             {
