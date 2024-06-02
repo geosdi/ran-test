@@ -56,7 +56,7 @@
     "refresh": false,
   "filters_type": [
       {
-        "operator": "and",
+        "operator": "or",
         "filter_function": "textInclude",
         "binding_key": "giudizio_complessivo_VVF",
         "filter_on_fields": [
@@ -67,7 +67,7 @@
         ]
       },
 	  {
-        "operator": "and",
+        "operator": "or",
         "filter_function": "textInclude",
         "binding_key": "esito_AGITEC",
         "filter_on_fields": [
