@@ -44,47 +44,47 @@
           "values": [
                    {
 						"key": "A",
-						"value": "#33a02c",
+						"value": "#33a02c"
 					},
 					{
 						"key": "B",
-						"value": "#fce3a9",
+						"value": "#fce3a9"
 					},
 					{
 						"key": "C",
-						"value": "#fdbf37",
+						"value": "#fdbf37"
 					},
 					{
 						"key": "D",
-						"value": "#ff6a00",
+						"value": "#ff6a00"
 					},
 					{
 						"key": "E",
-						"value": "#e31a1c",
+						"value": "#e31a1c"
 					},
 					{
 						"key": "A - F",
-						"value": "#33a02c",
+						"value": "#33a02c"
 					},
 					{
 						"key": "B - F",
-						"value": "#fce3a9",
+						"value": "#fce3a9"
 					},
 					{
 						"key": "C - F",
-						"value": "#fdbf37",
+						"value": "#fdbf37"
 					},
 					{
 						"key": "D - F",
-						"value": "#ff6a00",
+						"value": "#ff6a00"
 					},
 					{
 						"key": "E - F",
-						"value": "#e31a1c",
+						"value": "#e31a1c"
 					},
 					{
 						"key": "nd",
-						"value": "#2E75B6",
+						"value": "#2E75B6"
 					}
           ]
         },
@@ -93,23 +93,23 @@
           "values": [
                    {
 						"key": "A - F",
-						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)",
+						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)"
 					},
 					{
 						"key": "B - F",
-						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)",
+						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)"
 					},
 					{
 						"key": "C - F",
-						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)",
+						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)"
 					},
 					{
 						"key": "D - F",
-						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)",
+						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)"
 					},
 					{
 						"key": "E - F",
-						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)",
+						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)"
 					}
 			
           ]
