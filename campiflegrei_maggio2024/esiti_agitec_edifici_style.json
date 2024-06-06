@@ -93,23 +93,23 @@
           "values": [
                    {
 						"key": "A - F",
-						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)"
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/stripe_agitec.png)"
 					},
 					{
 						"key": "B - F",
-						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)"
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/stripe_agitec.png)"
 					},
 					{
 						"key": "C - F",
-						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)"
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/stripe_agitec.png)"
 					},
 					{
 						"key": "D - F",
-						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)"
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/stripe_agitec.png)"
 					},
 					{
 						"key": "E - F",
-						"value": "url(https://servizio-mappe.protezionecivile.it/assets/images/stripe.png)"
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/stripe_agitec.png)"
 					}
 			
           ]
