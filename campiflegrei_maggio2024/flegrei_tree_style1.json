@@ -95,7 +95,7 @@
       "key": "4",
       
       "label": "Esiti AGITEC",
-      "filterKey": "Esito_Agibilità",
+      "filterKey": "esito_agitec",
       "filterValue": "*",
       "expanded": true,
       "visible": true,
@@ -168,6 +168,17 @@
           "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/icone/agitec_nd.png'); width:30px; height:15px;"
         }
       ]
+    },
+	  	{
+      "key": "5",
+      
+      "label": "Esiti AGITEC-centroidi",
+      "filterKey": "esito_agitec",
+      "filterValue": "*",
+      "expanded": true,
+      "visible": true,
+      "type": "default"
+      
     }
     
   ]
