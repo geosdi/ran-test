@@ -6,7 +6,7 @@
       "filterKey": "Zona",
       "filterValue": "Zona di intervento",
       "expanded": true,
-      "visible": true,
+      "visible": false,
       "type": "default",
       "children": [
         {
@@ -23,7 +23,7 @@
       "filterKey": "Zona",
       "filterValue": "Zona di intervento ristretta",
       "expanded": true,
-      "visible": true,
+      "visible": false,
       "type": "default",
       "children": [
         {
