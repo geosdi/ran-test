@@ -26,6 +26,10 @@
     {
       "key": 4,
       "label": "Esiti AGITEC"
+    },
+    {
+      "key": 5,
+      "label": "Esiti AGITEC-centoidi"
     }
   ],
 "today": {
@@ -34,7 +38,8 @@
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_dati_z_interv_ristr_comuni.geojson",
       "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/SegnalazioniCOCPozzuoli.json",
       "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/TRIAGE_VVF_CF.geojson",
-	  "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edif_plinivs.geojson"
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edif_plinivs.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edif_plinivs_centroidi.geojson"
       
       ],
     "html_description": ""
@@ -44,7 +49,8 @@
     "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_style.json",
     "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/segnalazioni_style.json",
     "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/triage_vvf_style.json",
-	"https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edifici_style.json"
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edifici_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/esiti_agitec_edifici_centroidi_style.json"
   ] ,
    "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/main/campiflegrei_maggio2024/flegrei_tree_style1.json",
    "feature_sidebar": {
@@ -76,7 +82,7 @@
           "esito_agitec"
         ],
         "layers": [
-          4
+          4, 5
         ]
       }
     ]
