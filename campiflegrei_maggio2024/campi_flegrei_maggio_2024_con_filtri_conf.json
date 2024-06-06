@@ -6,11 +6,13 @@
   "layers": [
     {
       "key": 0,    
-      "label": "Zona intervento"
+      "label": "Zona intervento",
+      "visible": false
     },
     {
       "key": 1,
-      "label": "Zona interv ristretta"
+      "label": "Zona interv ristretta",
+      "visible": false
     },
     {
       "key": 2,
