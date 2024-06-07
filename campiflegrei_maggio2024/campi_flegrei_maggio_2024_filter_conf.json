@@ -4,7 +4,7 @@
       "fields": [
         {
           "field_type": "DROPDOWN",
-          "placeholder": "Esiti rilievi VVF",
+          "placeholder": "Filtro:Esiti rilievi VVF",
           "show_clear": true,
           "options": [
             {
@@ -28,7 +28,7 @@
         },
         {
           "field_type": "DROPDOWN",
-          "placeholder": "Esiti rilievi AGITEC",
+          "placeholder": "Filtro:Esiti rilievi AGITEC",
           "options": [
             {
               "name": "A (agibile)",
