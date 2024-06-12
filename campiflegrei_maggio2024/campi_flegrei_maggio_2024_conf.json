@@ -108,6 +108,17 @@
         "layers": [
           4, 5
         ]
+      },
+      {
+        "operator": "or",
+        "filter_function": "textInclude",
+        "binding_key": "idag",
+        "filter_on_fields": [
+          "idag_ided"
+        ],
+        "layers": [
+          4, 5
+        ]
       }
     ]
   }
