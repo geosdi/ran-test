@@ -2,30 +2,7 @@
   "form_groups": [
     {
       "fields": [
-        {
-          "field_type": "DROPDOWN",
-          "placeholder": "Filtro: Esiti rilievi VVF",
-          "show_clear": true,
-          "options": [
-            {
-              "name": "Senza criticità apparenti ",
-              "value":"SENZA"
-            },
-            {
-              "name": "Criticità lievi o evitabili",
-              "value": "CON CRITICITÀ LIEVI O EVITABILI"
-            },
-            {
-              "name": "Criticità gravi non evitabili",
-              "value": "CON CRITICITÀ GRAVI NON EVITABILI"
-            },
-            {
-              "name": "Da rivedere",
-              "value": "NON POTUTO ACCERTARE DA RIVEDERE"
-            }
-          ],
-          "binding_key": "giudizio_complessivo_VVF"
-        },
+
         {
           "field_type": "DROPDOWN",
           "placeholder": "Filtro: Esiti rilievi AGITEC",
