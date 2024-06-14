@@ -119,6 +119,17 @@
         "layers": [
           4, 5
         ]
+      },
+	  {
+        "filter_function": "rangeDate",
+        "operator": "and",
+        "binding_key": "data_agitec",
+        "filter_on_fields": [
+          "data_rilievo_agitec"
+        ],
+        "layers": [
+          4,5
+        ]
       }
     ]
   }
