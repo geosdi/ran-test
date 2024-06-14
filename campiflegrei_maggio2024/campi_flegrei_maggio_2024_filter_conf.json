@@ -35,6 +35,12 @@
           "binding_key": "esito_AGITEC"
         },
         {
+          "field_type": "DATE",
+          "date_selection_mode": "range",
+          "placeholder": "Filtro:data rilievo AGITEC",
+          "binding_key": "data_agitec"
+        },
+        {
           "field_type": "TEXT",
           "placeholder": "Cerca aggregato",
           "binding_key": "idag"
