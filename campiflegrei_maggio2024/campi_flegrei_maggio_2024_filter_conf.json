@@ -5,7 +5,7 @@
 
         {
           "field_type": "DROPDOWN",
-          "placeholder": "Filtro per esiti rilievi AGITEC",
+          "placeholder": "Filtro: esiti rilievi AGITEC",
           "options": [
             {
               "name": "A (agibile)",
@@ -37,7 +37,7 @@
         {
           "field_type": "DATE",
           "date_selection_mode": "range",
-          "placeholder": "Filtro per data rilievo AGITEC",
+          "placeholder": "Filtro: data rilievo AGITEC",
           "binding_key": "data_agitec"
         },
         {
