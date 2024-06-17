@@ -4,7 +4,7 @@
       "fields": [
 
         {
-          "field_type": "DROPDOWN",
+          "field_type": "MULTISELECT",
           "placeholder": "Filtro: esiti rilievi AGITEC",
           "options": [
             {
