@@ -47,9 +47,9 @@
         "value": "7/now"
       },
       {
-        "label": "Ultimi 30gg",
+        "label": "Ultimi 15gg",
         "binding_key": "time",
-        "value": "30/now"
+        "value": "15/now"
       }
 ],
   "filters_type": [
