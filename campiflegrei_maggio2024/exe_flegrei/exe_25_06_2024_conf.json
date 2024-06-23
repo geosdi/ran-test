@@ -72,9 +72,9 @@
       {
         "operator": "or",
         "filter_function": "textInclude",
-        "binding_key": "giudizio_complessivo_VVF",
+        "binding_key": "id_istanza",
         "filter_on_fields": [
-          "giudizio_complessivo_esteso"
+          "N."
         ],
         "layers": [
           3
