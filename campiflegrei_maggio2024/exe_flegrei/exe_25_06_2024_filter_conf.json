@@ -1,0 +1,17 @@
+{
+  "form_groups": [
+    {
+      "fields": [
+
+        {
+          "field_type": "TEXT",
+          "placeholder": "Cerca istanza per id",
+          "binding_key": "id_istanza"
+        },
+        {
+          "field_type": "BUTTON"
+        }
+      ]
+    }
+  ]
+}
