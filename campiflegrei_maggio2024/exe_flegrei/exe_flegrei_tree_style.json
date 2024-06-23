@@ -96,8 +96,8 @@
       "label": "Esiti AGITEC",
       "filterKey": "esito_agitec",
       "filterValue": "*",
-      "expanded": false,
-      "visible": false,
+      "expanded": true,
+      "visible": true,
       "type": "default",
       "children": [
         {
