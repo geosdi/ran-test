@@ -22,15 +22,17 @@
     {
       "key": 3,
       "label": "Richieste sopralluoghi",
-      "visible": false
+      "visible": true
     }, 
     {
       "key": 4,
-      "label": "Esiti AGITEC-edifici"
+      "label": "Esiti AGITEC-edifici",
+      "visible": false
     },
     {
       "key": 5,
-      "label": "Esiti AGITEC-centroidi"
+      "label": "Esiti AGITEC-centroidi",
+      "visible": false
     }
   ],
 "today": {
