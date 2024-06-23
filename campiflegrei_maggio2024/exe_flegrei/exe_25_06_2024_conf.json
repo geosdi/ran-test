@@ -71,7 +71,7 @@
   "filters_type": [
       {
         "operator": "or",
-        "filter_function": "textInclude",
+        "filter_function": "exactValue",
         "binding_key": "id_istanza",
         "filter_on_fields": [
           "N."
