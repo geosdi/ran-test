@@ -1,0 +1,17 @@
+{
+  "header_popup": "Agitec",
+  "today": {
+    "topo_json": [
+      {
+        "layer": 0,
+        "geojson": "https://eme-management.protezionecivile.it/api/public/v1/queries/query_datasource_plus_20081d79c5324b3e83b35dfde856e8aa_19d0802d4da648e3babd635c404acd6c",
+        "budibase": {
+          "appId": "app_dev_1d1be84793064e53a28651ce3128e3a0",
+          "xBudibaseApiKey": "52a88b797c31589e3f4158861378ba54-29e96d8692253b6c41911109fcc844c0e96a1de4cc64585762576c06bb8d65745a66f7befecbc1c7"
+        }
+      }
+    ]
+  }
+}
+
+
