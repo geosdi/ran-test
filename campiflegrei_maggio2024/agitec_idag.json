@@ -29,7 +29,8 @@
         "key": 0,
         "properties": [
           {
-            "key": "ind_vuln"
+            "key": "ind_vuln",
+            "label": "Indice vulnerabilità"
           }
         ]
       },
