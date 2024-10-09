@@ -18,7 +18,7 @@
     "html_description": ""
   },
   "style": [
-    "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi_sismici_flegrei/terremoti_CF_style.json"
+    "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/eventi_sismici_flegrei/exe_flegrei_2024_terremoti_style.json"
   ],
    "leaflet": {
     "tooltip": [
