@@ -1,0 +1,81 @@
+{
+  "global_legend": "",
+  "name": "Eventi sismici EXE Flegrei 2024",
+  "header_popup": " ",
+  "strategy_features": "not_intersect",
+  "layers": [
+    
+    {
+      "key": 0,    
+      "label": "Eventi sismici"
+    }
+      ],
+  "today": {
+
+    "topo_json": [
+      "https://dati-exe-flegrei-2024.s3.eu-south-1.amazonaws.com/terremoti.geojson"
+     ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi_sismici_flegrei/terremoti_CF_style.json"
+  ],
+   "leaflet": {
+    "tooltip": [
+    {
+      "key": 0,
+      "properties": [
+       {
+          "key": "magnitudo",
+          "label": "Mag"
+        },
+         {
+          "key": "profondita_km",
+          "label": "Deph km"
+        }
+       ]
+    }
+   ]
+  },
+
+    "feature_sidebar": {
+    "header": "Eventi OV"
+  },
+  "feature_table": {
+  "load_on_startup": false
+  },
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/geosdi/ran-test/main/eventi_sismici_flegrei/terremoti_CF_filter_conf.json",
+    "refresh": true,
+  "filters_url": [
+      {
+        "value": "data",
+        "binding_key": "time"
+      }
+    ],
+  "filters_type": [
+       {
+        "filter_function": "rangeDate",
+        "operator": "and",
+        "binding_key": "time",
+        "filter_on_fields": [
+          "data_ora_utc"
+        ],
+        "layers": [
+          0
+        ]
+      },
+      {
+        "operator": "and",
+        "filter_function": "equalOrSup",
+        "binding_key": "magnitudo",
+        "filter_on_fields": [
+          "magnitudo"
+        ],
+        "layers": [
+          0
+        ]
+      }
+    ]
+  }
+}
