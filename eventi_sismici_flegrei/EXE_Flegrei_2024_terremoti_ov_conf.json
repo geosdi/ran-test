@@ -30,7 +30,7 @@
           "label": "Mag"
         },
          {
-          "key": "profondita_km",
+          "key": "profondita",
           "label": "Deph km"
         }
        ]
