@@ -18,7 +18,7 @@
                 2,
                 4
               ],
-              "value": "<span style='background-color:#ee00e6; width:20px; height:20px;font-size: 8px' class='circle flex align-content-between align-items-center justify-content-center'>${value}</span>"
+              "value": "<span style='background-color:#ee00e6!important; width:20px; height:20px;font-size: 8px' class='circle flex align-content-between align-items-center justify-content-center'>${value}</span>"
             },
             {
               "key": [
