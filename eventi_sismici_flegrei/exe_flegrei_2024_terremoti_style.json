@@ -1,0 +1,42 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "magnitudo",
+      "properties": [
+        {
+          "property": "divIcon",
+          "values": [
+            {
+              "key": [
+                0,
+                2
+              ],
+              "value": "<span style='width:10px; height:10px;;font-size: 4px' class='circle flex align-content-between align-items-center justify-content-center'>${value}</span>"
+            },
+            {
+              "key": [
+                2,
+                4
+              ],
+              "value": "<span style='width:20px; height:20px;font-size: 8px' class='circle flex align-content-between align-items-center justify-content-center'>${value}</span>"
+            },
+            {
+              "key": [
+                4,
+                8
+              ],
+              "value": "<span style='width:40px; height:40px;font-size: 16px' class='circle flex align-content-between align-items-center justify-content-center'>${value}</span>"
+            },
+            {
+              "key": [
+                8,
+                12
+              ],
+              "value": "<span style='width:60px; height:60px;font-size: 18px' class='circle flex align-content-between align-items-center justify-content-center'>${value}</span>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
