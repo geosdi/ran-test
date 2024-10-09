@@ -11,7 +11,7 @@
                 0,
                 2
               ],
-              "value": "<span style='background-color:#ee00e6; width:10px; height:10px;;font-size: 4px' class='circle flex align-content-between align-items-center justify-content-center'>${value}</span>"
+              "value": "<span style='background-color:#ee00e6!important; width:10px; height:10px;;font-size: 4px' class='circle flex align-content-between align-items-center justify-content-center'>${value}</span>"
             },
             {
               "key": [
@@ -25,14 +25,14 @@
                 4,
                 8
               ],
-              "value": "<span style='background-color:#ee00e6; width:40px; height:40px;font-size: 16px' class='circle flex align-content-between align-items-center justify-content-center'>${value}</span>"
+              "value": "<span style='background-color:#ee00e6!important; width:40px; height:40px;font-size: 16px' class='circle flex align-content-between align-items-center justify-content-center'>${value}</span>"
             },
             {
               "key": [
                 8,
                 12
               ],
-              "value": "<span style='background-color:#ee00e6; width:60px; height:60px;font-size: 18px' class='circle flex align-content-between align-items-center justify-content-center'>${value}</span>"
+              "value": "<span style='background-color:#ee00e6!important; width:60px; height:60px;font-size: 18px' class='circle flex align-content-between align-items-center justify-content-center'>${value}</span>"
             }
           ]
         }
