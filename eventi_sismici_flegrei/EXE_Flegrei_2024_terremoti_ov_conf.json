@@ -3,6 +3,7 @@
   "name": "Eventi sismici EXE Flegrei 2024",
   "header_popup": " ",
   "strategy_features": "not_intersect",
+  "mapid": "13550-8151",
   "layers": [
     
     {
