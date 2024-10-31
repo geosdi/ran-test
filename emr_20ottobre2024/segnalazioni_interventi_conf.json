@@ -1,0 +1,65 @@
+{
+  "global_legend": "",
+  "name": "Emilia-Romagna 19_20/10/2024",
+  "header_popup": "Interventi e segnalazioni",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Segnalazioni Regione"
+    },
+    {
+      "key": 1,
+      "label": "Interventi VVF"
+    },
+    {
+      "key": 2,
+      "label": "Aree allagate"
+    }
+  ],
+  "today": {
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/segnalazioni_criticita_3_24102024.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/interventi VVF_ridotto_cat.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/aree_allagate_cima.geojson"
+    ],
+    "html_descrition": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/segnalazioni_criticita_3_24102024_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/interventi VVF_ridotto_cat_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/aree_allagate_cima_style.json"
+  ],
+  "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/segnalazioni_interventi_tree_style.json",
+  "leaflet": {
+    "tooltip": [
+      {
+        "key": 0,
+        "properties": [
+          {
+            "key": "Tipo segnalazione",
+            "label": "Tipo segnalazione"
+          }
+        ]
+      },
+      {
+        "key": 1,
+        "properties": [
+          {
+            "key": "Tipo intervento",
+            "label": "Tipo intervento"
+          }
+        ]
+      },
+      {
+        "key": 2,
+        "properties": [
+          {
+            "key": "Id",
+            "label": "Tipo"
+          }
+        ]
+      }
+    ]
+  }
+}
+

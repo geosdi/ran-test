@@ -1,0 +1,30 @@
+{
+    "style_properties": [
+    {
+		"propertyKey": "Tipo intervento",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [
+				       {
+						"key": "Danni da acqua",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/alert.png)"
+					},
+					{
+						"key": "Svuotamento aree allagate",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/alert.png)"
+					},
+					{
+						"key": "Prosciugamento in genere",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/alert.png)"
+					},
+					{
+						"key": "Servizio di assistenza",
+						"value": "url(https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/alert.png)"
+					}
+				]
+			}
+		]
+	}
+    ]
+}
