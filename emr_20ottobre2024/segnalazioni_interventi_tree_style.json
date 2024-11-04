@@ -46,27 +46,9 @@
       "children": [
         {
           "selectable": false,
-          "description": "Danni da acqua",
+          "color": "#ff0000",
           "type": "icon",
-          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/alert.png'); width:20px; height:20px;"
-        },
-        {
-          "selectable": false,
-          "description": "Svuotamento aree allagate",
-          "type": "icon",
-          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/alert.png'); width:20px; height:20px;"
-        },
-        {
-          "selectable": false,
-          "description": "Prosciugamento in genere",
-          "type": "icon",
-          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/alert.png'); width:20px; height:20px;"
-        },
-        {
-          "selectable": false,
-          "description": "Servizio di assistenza",
-          "type": "icon",
-          "css_style": "content: url('https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/alert.png'); width:20px; height:20px;"
+          "css_style": "height: 15px;width: 15px;display: inline-block; border-radius: 50%;border: 1px #000000 solid;"
         }
       ]
     },
@@ -83,7 +65,7 @@
           "selectable": false,
           "color": "#1f78b4",
           "type": "icon",
-          "css_style": "height: 15px;width: 30px;display: inline-block; border: 1px solid #1f78b4; opacity:0.75"
+          "css_style": "height: 15px;width: 30px;display: inline-block; border: 1px solid #1f78b4; opacity:0.75;"
         }
       ]
     }
