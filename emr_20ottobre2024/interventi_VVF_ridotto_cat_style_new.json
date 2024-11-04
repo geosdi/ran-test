@@ -1,0 +1,63 @@
+{
+  "style_properties": [
+    {
+      "propertyKey": "Tipo intervento",
+      "properties": [
+        {
+          "property": "radius",
+          "values": [
+            {
+              "key": "*",
+              "value": "6"
+            }
+          ]
+        },
+        {
+          "property": "fillColor",
+          "values": [
+            {
+              "key": "*",
+              "value": "#688a50"
+            }
+          ]
+        },
+        {
+          "property": "color",
+          "values": [
+            {
+              "key": "*",
+              "value": "#000"
+            }
+          ]
+        },
+        {
+          "property": "weight",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "opacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            {
+              "key": "*",
+              "value": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
