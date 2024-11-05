@@ -13,21 +13,27 @@
     },
     {
       "key": 2,
-      "label": "Aree allagate"
+      "label": "Aree allagate Cima"
+    },
+    {
+      "key": 3,
+      "label": "Aree allagate Copernicus"
     }
   ],
   "today": {
     "topo_json": [
       "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/segnalazioni_criticita_3_24102024.geojson",
       "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/interventi_VVF_ridotto_cat.geojson",
-      "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/aree_allagate_cima.geojson"
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/aree_allagate_cima.geojson",
+      "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/aree_maximum_flood_extended.geojson"
     ],
-    "html_descrition": ""
+    "html_description": ""
   },
   "style": [
     "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/segnalazioni_criticita_3_24102024_style.json",
     "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/interventi_VVF_ridotto_cat_style_new.json",
-    "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/aree_allagate_cima_style.json"
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/aree_allagate_cima_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/aree_allagate_copernicus_style.json"
   ],
   "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/main/emr_20ottobre2024/segnalazioni_interventi_tree_style.json",
   "leaflet": {
@@ -55,6 +61,15 @@
         "properties": [
           {
             "key": "Id",
+            "label": "Tipo"
+          }
+        ]
+      },
+      {
+        "key": 3,
+        "properties": [
+          {
+            "key": "notation",
             "label": "Tipo"
           }
         ]
