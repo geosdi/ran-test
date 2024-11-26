@@ -175,7 +175,7 @@
       "filterKey": "esito_agitec",
       "filterValue": "*",
       "expanded": false,
-      "visible": false,
+      "visible": true,
       "type": "default"
       
     }
