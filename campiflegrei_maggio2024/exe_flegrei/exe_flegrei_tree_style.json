@@ -36,7 +36,7 @@
     },
 	    {
       "key": "2",
-      "label": "Vulnerabilità 2023",
+      "label": "Vulnerabilità",
       "filterKey": "classe",
       "filterValue": "*",
       "expanded": true,
@@ -79,7 +79,7 @@
       "filterKey": "Comune",
       "filterValue": "*",
       "expanded": true,
-      "visible": true,
+      "visible": false,
       "type": "default",
       "children": [
         {
