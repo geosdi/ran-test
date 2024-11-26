@@ -22,7 +22,7 @@
     {
       "key": 3,
       "label": "Richieste sopralluoghi",
-      "visible": true
+      "visible": false
     }, 
     {
       "key": 4,
@@ -32,7 +32,7 @@
     {
       "key": 5,
       "label": "Esiti AGITEC-centroidi",
-      "visible": false
+      "visible": true
     }
   ],
 "today": {
