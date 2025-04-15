@@ -14,13 +14,13 @@
               "key": "CON CRITICITÀ LIEVI O EVITABILI",
               "value": "#ff8c00"
             },
-			{
-              "key": "SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)",
-              "value": "#c3d400"
-            },
 		  {
               "key": "SENZA CRITICITÀ APPARENTI DALL'ESTERNO (ispezionato solo dall'esterno)",
               "value": "#c3d400"
+            },
+			{
+              "key": "SENZA CRITICITÀ APPARENTI (ispezionato dall'esterno e dall'interno)",
+              "value": "#009f00"
             },
 			{
               "key": "NON POTUTO ACCERTARE DA RIVEDERE",
