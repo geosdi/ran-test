@@ -4,7 +4,7 @@
     "topo_json": [
       {
         "layer": 0,
-        "geojson": "https://eme-management.protezionecivile.it/api/public/v1/queries/query_datasource_plus_134fd9999939415b8bd30cd048f6f441_47362bcf03254420ba08377255d0c0f4",
+        "geojson": "https://dataproxy.geosdi.org/proxy?url=https://eme-management.protezionecivile.it/api/public/v1/queries/query_datasource_plus_134fd9999939415b8bd30cd048f6f441_47362bcf03254420ba08377255d0c0f4",
         "budibase": {
           "appId": "app_dev_cab2460eebdb4da289c1cc92fdc5e533",
           "xBudibaseApiKey": "72fe9463e5043f56446171d37f0b16a2-897f5da105f097a3c0339b3d63ab93e021fe9e912580247cd158744c2a1423bd64f634fc5a196e69"
