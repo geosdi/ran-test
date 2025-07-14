@@ -1,1 +1,30 @@
-
+{
+  "global_legend": "",
+  "name": "Fenomeno del bradisismo",
+  "header_popup": " ",
+  "external_logo": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano%20Nazionale%20Campi%20Flegrei/logo_regione_campania.png",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,    
+      "label": "Zona di intervento"
+    },
+    {
+      "key": 1,
+      "label": "Zona di intervento ristretta"
+    }
+  ],
+"today": {
+    "attachment": [],
+    "topo_json": [
+      "https://protezionecivile.sharepoint.com/:u:/r/sites/TeamDati/Documenti%20condivisi/test/piano_sped_brad_flegrei_dati_z_interv_comuni.geojson",
+      "https://protezionecivile.sharepoint.com/:u:/r/sites/TeamDati/Documenti%20condivisi/test/piano_sped_brad_flegrei_dati_z_interv_ristr_comuni.geojson"
+      ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_style.json",
+      "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_style.json"
+  ],
+  "treeStyle": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/master/rischi/Piano_speditivo_bradisismo_Campi_Flegrei/piano_sped_brad_flegrei_tree_style.json"
+}
