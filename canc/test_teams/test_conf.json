@@ -17,8 +17,8 @@
 "today": {
     "attachment": [],
     "topo_json": [
-      "https://raw.githubusercontent.com/pcm-dpc/test/refs/heads/main/piano_sped_brad_flegrei_dati_z_interv_comuni.geojson",
-      "https://raw.githubusercontent.com/pcm-dpc/test/refs/heads/main/piano_sped_brad_flegrei_dati_z_interv_ristr_comuni.geojson"
+      "https://dataproxy.geosdi.org/proxy?url=https://protezionecivile.sharepoint.com/:u:/r/sites/TeamDati/Documenti%20condivisi/test/piano_sped_brad_flegrei_dati_z_interv_comuni.geojson",
+      "https://dataproxy.geosdi.org/proxy?url=https://protezionecivile.sharepoint.com/:u:/r/sites/TeamDati/Documenti%20condivisi/test/piano_sped_brad_flegrei_dati_z_interv_ristr_comuni.geojson"
       ],
     "html_description": ""
   },
