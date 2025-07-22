@@ -30,27 +30,6 @@
   "percorsi": [
     {
       "layer": 0,
-      "file": "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/canc/test_percorsi/percorsi.geojson",
-      "keys": [
-        "id",
-        "percorso"
-      ],
-      "options": {
-        "delay": 800,
-        "dashArray": [
-          48,
-          20
-        ],
-        "weight": 5,
-        "color": "#800000",
-        "pulseColor": "#FFFFFF",
-        "paused": false,
-        "reverse": false,
-        "hardwareAccelerated": true
-      }
-    },
-	{
-      "layer": 0,
       "file": "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/canc/test_percorsi/percorsi1.geojson",
       "keys": [
         "id",
@@ -62,8 +41,71 @@
           48,
           20
         ],
+        "weight": 5,
+        "color": "#ff0000",
+        "pulseColor": "#FFFFFF",
+        "paused": false,
+        "reverse": false,
+        "hardwareAccelerated": true
+      }
+    },
+	{
+      "layer": 0,
+      "file": "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/canc/test_percorsi/percorsi2.geojson",
+      "keys": [
+        "id",
+        "percorso"
+      ],
+      "options": {
+        "delay": 800,
+        "dashArray": [
+          48,
+          20
+        ],
+        "weight": 5,
+        "color": "#800080",
+        "pulseColor": "#FFFFFF",
+        "paused": false,
+        "reverse": false,
+        "hardwareAccelerated": true
+      }
+    },
+	  {
+      "layer": 0,
+      "file": "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/canc/test_percorsi/percorsi3.geojson",
+      "keys": [
+        "id",
+        "percorso"
+      ],
+      "options": {
+        "delay": 800,
+        "dashArray": [
+          48,
+          20
+        ],
+        "weight": 5,
+        "color": "#000080",
+        "pulseColor": "#FFFFFF",
+        "paused": false,
+        "reverse": false,
+        "hardwareAccelerated": true
+      }
+    },
+	  {
+      "layer": 0,
+      "file": "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/canc/test_percorsi/percorsi_deviazioni.geojson",
+      "keys": [
+        "id",
+        "percorso"
+      ],
+      "options": {
+        "delay": 800,
+        "dashArray": [
+          48,
+          20
+        ],
         "weight": 3,
-        "color": "#0000ff",
+        "color": "#006400",
         "pulseColor": "#FFFFFF",
         "paused": false,
         "reverse": false,
