@@ -30,7 +30,7 @@
   "percorsi": [
     {
       "layer": 0,
-      "file": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/iniziative/giubileo_giovani_2025/percorsi.geojson",
+      "file": "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/canc/test_percorsi/percorsi.geojson",
       "keys": [
         "id",
         "percorso"
@@ -51,7 +51,7 @@
     },
 	{
       "layer": 0,
-      "file": "https://raw.githubusercontent.com/pcm-dpc/DPC-Mappe/refs/heads/master/iniziative/giubileo_giovani_2025/percorsi1.geojson",
+      "file": "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/canc/test_percorsi/percorsi1.geojson",
       "keys": [
         "id",
         "percorso"
