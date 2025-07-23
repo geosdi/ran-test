@@ -64,7 +64,7 @@
         ],
         "weight": 5,
         "color": "#800080",
-        "pulseColor": "#FFFFFF",
+        "pulseColor": "#ffbeff",
         "paused": false,
         "reverse": false,
         "hardwareAccelerated": true
@@ -85,7 +85,7 @@
         ],
         "weight": 5,
         "color": "#000080",
-        "pulseColor": "#FFFFFF",
+        "pulseColor": "#b2b2ff",
         "paused": false,
         "reverse": false,
         "hardwareAccelerated": true
@@ -106,7 +106,7 @@
         ],
         "weight": 3,
         "color": "#006400",
-        "pulseColor": "#FFFFFF",
+        "pulseColor": "#a5ffa5",
         "paused": false,
         "reverse": false,
         "hardwareAccelerated": true
