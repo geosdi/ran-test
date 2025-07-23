@@ -123,7 +123,7 @@
       ],
       "tooltip": {
         "property_key": "codice",
-	  "fillColor": "#ff7800"    
+	 "property_color": "#ff7800"    
       },
       "json_style": {
         "radius": 8,
