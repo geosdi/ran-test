@@ -42,8 +42,8 @@
           20
         ],
         "weight": 5,
-        "color": "#ff0000",
-        "pulseColor": "#ffa500",
+        "color": "#000000",
+        "pulseColor": "#ff7f00",
         "paused": false,
         "reverse": false,
         "hardwareAccelerated": true
