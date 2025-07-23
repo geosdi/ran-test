@@ -122,7 +122,8 @@
         "percorso"
       ],
       "tooltip": {
-        "property_key": "codice"
+        "property_key": "codice",
+	  "fillColor": "#ff7800"    
       },
       "json_style": {
         "radius": 8,
