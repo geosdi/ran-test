@@ -17,7 +17,7 @@
     "html_description": ""
   },
   "style": [
-    "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/dighe_aree_semplificate_042024_style.json"
+    "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/stato_allerte_vulcani_style.json"
   ],
     "leaflet": {
     "tooltip": [
