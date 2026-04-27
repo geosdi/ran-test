@@ -1,7 +1,7 @@
 {
   "global_legend": "",
   "name": "Stato di allerta",
-  "header_popup": "Stato di allerta",
+  "header_popup": "Stato dei livelli di allerta",
   "strategy_features": "not_intersect",
   "layers": [
     {
