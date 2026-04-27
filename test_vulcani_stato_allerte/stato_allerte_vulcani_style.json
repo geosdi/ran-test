@@ -7,7 +7,7 @@
           "property": "shape",
           "values": [
             {
-              "key": "non_definito",
+              "key": "non definito",
               "value": "triangle",
               "options": {
                 "fillColor": "#808080",
