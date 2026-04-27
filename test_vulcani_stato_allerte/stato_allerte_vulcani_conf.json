@@ -1,1 +1,41 @@
-
+{
+  "global_legend": "",
+  "name": "Stato di allerta",
+  "header_popup": "Stato di allerta",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Stato di allerta vulcani"
+    }
+  ],
+  "today": {
+    "attachment": [],
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/vulcani_liv_allerta_maplite.geojson"
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/ran-test/main/dighe/dighe_aree_semplificate_042024_style.json"
+  ],
+    "leaflet": {
+    "tooltip": [
+    {
+      "key": 0,
+      "properties": [
+       {
+          "key": "nome",
+          "label": "Vulcano"
+        }
+       ]
+    }
+   ]
+  },
+  "feature_sidebar": {
+    "header": "Stati di allerta vulcani"
+  },
+  "feature_table": {
+  "load_on_startup": false
+  }
+}
