@@ -35,6 +35,28 @@
   "feature_sidebar": {
     "header": "Stati di allerta vulcani"
   },
+     "features_detail": [
+  {
+    "key": 0,
+    "featureInfo": [
+      {
+        "name": "nome",
+        "label": "Nome vulcano",
+        "options": {
+          "type": "string"
+        }
+      },
+      {
+        "name": "livello_allerta_link",
+        "label": "Livello di allerta"
+      },
+      {
+        "name": "link",
+        "label": "Ulteriori informazioni"
+      }
+    ]
+  }
+],
   "feature_table": {
   "load_on_startup": false
   }
