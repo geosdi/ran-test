@@ -12,10 +12,9 @@
       "children": [
         {
           "selectable": false,
-          "color": "#ff0000",
           "description": "Rosso",
           "type": "icon",
-          "css_style": "height: 0px;width: 0px; border: 1px solid; border-radius: 25%; opacity:0.7; border-left: 25px solid transparent; border-right: 25px solid transparent; border-bottom: 40px solid;"
+          "css_style": "height: 0px;width: 0px; border-left: 8px solid transparent; border-right: 8px solid transparent; border-bottom: 15px solid #ff0000;"
         },
         {
           "selectable": false,
