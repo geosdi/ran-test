@@ -36,6 +36,15 @@
             "label": "Vulcano"
           }
         ]
+      },
+       {
+        "key": 1,
+        "properties": [
+          {
+            "key": "nome",
+            "label": "Vulcano"
+          }
+        ]
       }
     ]
   },
@@ -57,6 +66,23 @@
         {
           "name": "livello_allerta_link",
           "label": "Livello di allerta"
+        },
+        {
+          "name": "link",
+          "label": "Ulteriori informazioni"
+        }
+      ]
+    },
+    {
+      "key": 1,
+      "visible_properties": ["nome", "link"],
+      "detail_properties": [
+        {
+          "name": "nome",
+          "label": "Nome vulcano",
+          "options": {
+            "type": "string"
+          }
         },
         {
           "name": "link",
