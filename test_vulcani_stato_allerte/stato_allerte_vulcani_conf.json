@@ -57,8 +57,5 @@
       }
     ]
   }
-],
-  "feature_table": {
-  "load_on_startup": false
-  }
+]
 }
