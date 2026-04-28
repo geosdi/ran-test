@@ -1,12 +1,12 @@
 {
   "global_legend": "",
-  "name": "Stato di allerta",
-  "header_popup": "Stato dei livelli di allerta",
+  "name": "Stato dei livelli di allerta",
+  "header_popup": "Livelli di allerta",
   "strategy_features": "not_intersect",
   "layers": [
     {
       "key": 0,
-      "label": "Stato di allerta vulcani"
+      "label": "Livelli di allerta"
     }
   ],
   "today": {
