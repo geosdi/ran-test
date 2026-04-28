@@ -19,43 +19,43 @@
   "style": [
     "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/stato_allerte_vulcani_style.json"
   ],
-   "treeStyle": "https://raw.githubusercontent.com/geosdi/ran-test/refs/heads/main/test_vulcani_stato_allerte/stato_allerte_vulcani_tree_style.json",
-    "leaflet": {
+  "leaflet": {
     "tooltip": [
-    {
-      "key": 0,
-      "properties": [
-       {
-          "key": "nome",
-          "label": "Vulcano"
-        }
-       ]
-    }
-   ]
+      {
+        "key": 0,
+        "properties": [
+          {
+            "key": "nome",
+            "label": "Vulcano"
+          }
+        ]
+      }
+    ]
   },
   "feature_sidebar": {
     "header": "Stati di allerta vulcani"
   },
-     "features_detail": [
-  {
-    "key": 0,
-    "featureInfo": [
-      {
-        "name": "nome",
-        "label": "Nome vulcano",
-        "options": {
-          "type": "string"
+  "feature_properties": [
+    {
+      "key": 0,
+      "visible_properties": ["nome", "livello_allerta_link", "link"],
+      "detail_properties": [
+        {
+          "name": "nome",
+          "label": "Nome vulcano",
+          "options": {
+            "type": "string"
+          }
+        },
+        {
+          "name": "livello_allerta_link",
+          "label": "Livello di allerta"
+        },
+        {
+          "name": "link",
+          "label": "Ulteriori informazioni"
         }
-      },
-      {
-        "name": "livello_allerta_link",
-        "label": "Livello di allerta"
-      },
-      {
-        "name": "link",
-        "label": "Ulteriori informazioni"
-      }
-    ]
-  }
-]
+      ]
+    }
+  ]
 }
