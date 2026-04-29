@@ -38,7 +38,7 @@
           "selectable": false,
           "description": "Non definito",
           "type": "icon",
-           "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #808080;"
+           "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #e2e7e9;"
         }
       ]
     },
