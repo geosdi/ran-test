@@ -58,7 +58,7 @@
       "detail_properties": [
         {
           "name": "nome",
-          "label": "Nome vulcano",
+          "label": "Nome",
           "options": {
             "type": "string"
           }
@@ -79,7 +79,7 @@
       "detail_properties": [
         {
           "name": "nome",
-          "label": "Nome vulcano",
+          "label": "Nome",
           "options": {
             "type": "string"
           }
