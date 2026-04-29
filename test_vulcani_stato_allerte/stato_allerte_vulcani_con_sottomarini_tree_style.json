@@ -56,7 +56,7 @@
           "selectable": false,
           "description": " ",
           "type": "icon",
-          "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #a6cee3;"
+          "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #0084ff;"
         }
       ]
     }
