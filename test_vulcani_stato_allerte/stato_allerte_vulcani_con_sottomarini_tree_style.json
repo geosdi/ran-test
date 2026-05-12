@@ -49,7 +49,7 @@
       "filterKey": "nome",
       "filterValue": "*",
       "expanded": true,
-      "visible": true,
+      "visible": false,
       "type": "default",
       "children": [
         {
