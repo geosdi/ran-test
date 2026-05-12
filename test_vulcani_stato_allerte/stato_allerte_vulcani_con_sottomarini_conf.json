@@ -6,11 +6,13 @@
   "layers": [
     {
       "key": 0,
-      "label": "Vulcani emersi-Liv. allerta"
+      "label": "Vulcani emersi-Liv. allerta",
+       "visible": true
     },
       {
       "key": 1,
-      "label": "Vulcani sottomarini"
+      "label": "Vulcani sottomarini",
+      "visible": false
     } 
   ],
   "today": {
