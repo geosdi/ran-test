@@ -56,11 +56,18 @@
   "feature_properties": [
     {
       "key": 0,
-      "visible_properties": ["nome", "livello_allerta_link", "link"],
+      "visible_properties": ["Vulcano", "Caratteristiche", "livello_allerta_link", "Comportamenti corretti"],
       "detail_properties": [
         {
-          "name": "nome",
-          "label": "Nome",
+          "name": "Vulcano",
+          "label": "Vulcano",
+          "options": {
+            "type": "string"
+          }
+        },
+         {
+          "name": "Caratteristiche",
+          "label": "Caratteristiche",
           "options": {
             "type": "string"
           }
@@ -70,8 +77,8 @@
           "label": "Livello di allerta"
         },
         {
-          "name": "link",
-          "label": "Ulteriori informazioni"
+          "name": "Comportamenti corretti",
+          "label": "Comportamenti corretti"
         }
       ]
     },
@@ -81,7 +88,7 @@
       "detail_properties": [
         {
           "name": "nome",
-          "label": "Nome",
+          "label": "Vulcano",
           "options": {
             "type": "string"
           }
