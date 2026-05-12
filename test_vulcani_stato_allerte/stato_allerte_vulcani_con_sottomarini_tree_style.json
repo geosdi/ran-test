@@ -3,7 +3,7 @@
     {
       "key": "0",
       
-      "label": "Vulcani emersi-Liv. allerta",
+      "label": "Vulcani emersi",
       "filterKey": "livello_allerta",
       "filterValue": "*",
       "expanded": true,
@@ -12,31 +12,31 @@
       "children": [
         {
           "selectable": false,
-          "description": "Rosso",
+          "description": "Allerta Rossa",
           "type": "icon",
           "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #ff0000;"
         },
         {
           "selectable": false,
-          "description": "Arancione",
+          "description": "Allerta Arancione",
           "type": "icon",
          "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #ffa500;"
         },
         {
           "selectable": false,
-          "description": "Giallo",
+          "description": "Allerta Gialla",
           "type": "icon",
           "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #ffff00;"
         },
         {
           "selectable": false,
-          "description": "Verde",
+          "description": "Allerta Verde",
           "type": "icon",
            "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #00ff00;"
         },
 		{
           "selectable": false,
-          "description": "Non definito",
+          "description": "Allerta non definita",
           "type": "icon",
            "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #e2e7e9;"
         }
