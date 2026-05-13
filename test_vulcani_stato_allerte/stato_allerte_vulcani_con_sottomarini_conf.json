@@ -65,16 +65,16 @@
             "type": "string"
           }
         },
-         {
+        {
+          "name": "livello_allerta_link",
+          "label": "Livello di allerta"
+        },
+        {
           "name": "Caratteristiche",
           "label": "Caratteristiche",
           "options": {
             "type": "string"
           }
-        },
-        {
-          "name": "livello_allerta_link",
-          "label": "Livello di allerta"
         },
         {
           "name": "Comportamenti corretti",
