@@ -36,7 +36,7 @@
         },
 		{
           "selectable": false,
-          "description": " Allerta non prevista/non definita",
+          "description": " Allerta non definita",
           "type": "icon",
            "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #e2e7e9;"
         }
