@@ -56,7 +56,7 @@
   "feature_properties": [
     {
       "key": 0,
-      "visible_properties": ["Vulcano", "livello_allerta_link", "Caratteristiche", "Comportamenti corretti"],
+      "visible_properties": ["Vulcano", "livello_allerta_link", "Caratteristiche", "Comportamenti corretti", "Pianificazione nazionale"],
       "detail_properties": [
         {
           "name": "Vulcano",
@@ -79,6 +79,10 @@
         {
           "name": "Comportamenti corretti",
           "label": "Comportamenti corretti"
+        },
+        {
+          "name": "Pianificazione nazionale",
+          "label": "Pianificazione nazionale"
         }
       ]
     },
