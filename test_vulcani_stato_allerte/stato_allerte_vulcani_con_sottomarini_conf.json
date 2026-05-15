@@ -88,18 +88,18 @@
     },
     {
       "key": 1,
-      "visible_properties": ["nome", "link"],
+      "visible_properties": ["Vulcano", "Caratteristiche"],
       "detail_properties": [
         {
-          "name": "nome",
+          "name": "Vulcano",
           "label": "Vulcano",
           "options": {
             "type": "string"
           }
         },
         {
-          "name": "link",
-          "label": "Ulteriori informazioni"
+          "name": "Caratteristiche",
+          "label": "Caratteristiche"
         }
       ]
     }
