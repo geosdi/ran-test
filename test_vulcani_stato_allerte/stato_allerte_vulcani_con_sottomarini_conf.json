@@ -88,7 +88,7 @@
     },
     {
       "key": 1,
-      "visible_properties": ["Vulcano", "Caratteristiche"],
+      "visible_properties": ["Vulcano", "livello_allerta"],
       "detail_properties": [
         {
           "name": "Vulcano",
@@ -98,8 +98,8 @@
           }
         },
         {
-          "name": "Caratteristiche",
-          "label": "Caratteristiche"
+          "name": "livello_allerta",
+          "label": "Livello di allerta"
         }
       ]
     }
