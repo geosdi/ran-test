@@ -12,31 +12,31 @@
       "children": [
         {
           "selectable": false,
-          "description": " Allerta Rossa",
+          "description": " Livello di allerta Rosso",
           "type": "icon",
           "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #ff0000;"
         },
         {
           "selectable": false,
-          "description": " Allerta Arancione",
+          "description": " Livello di allerta Arancione",
           "type": "icon",
          "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #ffa500;"
         },
         {
           "selectable": false,
-          "description": " Allerta Gialla",
+          "description": " Livello di allerta Giallo",
           "type": "icon",
           "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #ffff00;"
         },
         {
           "selectable": false,
-          "description": " Allerta Verde",
+          "description": " Livello di allerta Verde",
           "type": "icon",
            "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #00ff00;"
         },
 		{
           "selectable": false,
-          "description": " Allerta non definita",
+          "description": " Livello di allerta non definito",
           "type": "icon",
            "css_style": "height: 0px;width: 0px; border-left: 10px solid transparent; border-right: 10px solid transparent; border-bottom: 20px solid #e2e7e9;"
         }
