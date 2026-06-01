@@ -35,7 +35,7 @@
         "properties": [
           {
             "key": "Vulcano",
-            "label": "Vulcano"
+            "label": "Nome"
           }
         ]
       },
@@ -44,7 +44,7 @@
         "properties": [
           {
             "key": "Vulcano",
-            "label": "Vulcano"
+            "label": "Nome"
           }
         ]
       }
@@ -60,7 +60,7 @@
       "detail_properties": [
         {
           "name": "Vulcano",
-          "label": "Vulcano",
+          "label": "Nome",
           "options": {
             "type": "string"
           }
@@ -92,7 +92,7 @@
       "detail_properties": [
         {
           "name": "Vulcano",
-          "label": "Vulcano",
+          "label": "Nome",
           "options": {
             "type": "string"
           }
